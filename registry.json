@@ -1,0 +1,22 @@
+{
+  "version": "1.0",
+  "updated": "2026-05-03",
+  "stores": [
+    {
+      "name": "Atlas Premium Appliance",
+      "domain": "negotiate.pier39.ai",
+      "tagline": "Premium home tech, outlet pricing.",
+      "city": "Atlanta, GA",
+      "categories": ["appliances", "home", "dyson", "vacuum", "hair-care", "air-quality"],
+      "products_count": 4,
+      "sample_products": [
+        "Dyson V15 Detect Absolute",
+        "Dyson Airwrap Complete Long",
+        "Dyson Pure Hot+Cool HP07",
+        "Dyson Supersonic Special Edition"
+      ],
+      "added": "2026-05-03",
+      "verified": true
+    }
+  ]
+}
