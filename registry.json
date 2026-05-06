@@ -17,6 +17,21 @@
       ],
       "added": "2026-05-03",
       "verified": true
+    },
+    {
+      "name": "Skout Organic",
+      "domain": "skout-organic-negotiate.fly.dev",
+      "tagline": "Organic energy bars, kids bars, and protein bars. AI shoppers welcome.",
+      "city": "Austin, TX",
+      "categories": ["food", "snacks", "energy-bars", "kids-snacks", "organic"],
+      "products_count": 29,
+      "sample_products": [
+        "Apple Pie Kids Bar",
+        "Blueberry Blast Kids Bar",
+        "Peanut Butter Protein Bar",
+        "Soft Baked Cookies"
+      ],
+      "added": "2026-05-06"
     }
   ]
 }
