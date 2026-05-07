@@ -952,6 +952,1085 @@
         "Polly Pocket™ x American Girl® Compact 3-Pack Set"
       ],
       "added": "2026-05-07"
+    },
+    {
+      "name": "Cupshe",
+      "domain": "pier39.fly.dev/cupshe",
+      "tagline": "Cupshe — premium quality, fair prices.",
+      "city": "Los Angeles, CA",
+      "categories": [
+        "swimwear",
+        "dresses",
+        "womens-fashion",
+        "apparel"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Leopard Print Halter Shirred Tankini Set",
+        "Shadow Cutout High Waist Hipster Bikini Bottoms",
+        "Anastasia Smocked Long Sleeve Maxi Dress",
+        "Helah Belted Buffalo Plaid Top"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "mnml",
+      "domain": "pier39.fly.dev/mnml",
+      "tagline": "mnml — premium quality, fair prices.",
+      "city": "Los Angeles, CA",
+      "categories": [
+        "streetwear",
+        "denim",
+        "mens-fashion",
+        "apparel"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Gamble Cutoff Tee - Off White",
+        "Bleeding L/S Tee - Yellow",
+        "Quiet Zip Up Hoodie - Washed Black",
+        "994 Phantom Tee - Washed Black"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Fangamer",
+      "domain": "pier39.fly.dev/fangamer",
+      "tagline": "Fangamer — premium quality, fair prices.",
+      "city": "Tucson, AZ",
+      "categories": [
+        "gaming-merch",
+        "collectibles",
+        "indie-games"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "\"I feel sick.\" Lenticular Pin",
+        "+Finely-Crafted Dwarven Pin+",
+        "143 Hoodie",
+        "20XX/30XX for Nintendo Switch™"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Bulletproof",
+      "domain": "pier39.fly.dev/bulletproof",
+      "tagline": "Bulletproof — premium quality, fair prices.",
+      "city": "Bellevue, WA",
+      "categories": [
+        "coffee",
+        "wellness",
+        "supplements",
+        "food"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Always Caffeinated Glass Mug, 13 oz.",
+        "Apple Cider Vinegar Max Gummies, 60 count",
+        "Brain Octane C8 MCT Oil and Ground Coffee",
+        "Brain Octane C8 MCT Oil Packets"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "G Fuel",
+      "domain": "pier39.fly.dev/g-fuel",
+      "tagline": "G Fuel — premium quality, fair prices.",
+      "city": "New York, NY",
+      "categories": [
+        "energy-drink",
+        "gaming",
+        "supplements",
+        "food"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Candy Beam Collector's Box",
+        "Awakening",
+        "Scary Flavor Collector's Box",
+        "Level 3 Sour Shirley Temple"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Decathlon",
+      "domain": "pier39.fly.dev/decathlon",
+      "tagline": "Decathlon — premium quality, fair prices.",
+      "city": "Villeneuve-d'Ascq, France",
+      "categories": [
+        "sports-equipment",
+        "outdoor",
+        "fitness"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Kiprun Kipstorm Lab Unisex Carbon Plate Running Shoes",
+        "Kiprun Kipride Women's Running Shoes",
+        "Quechua 2 Second Fresh & Black Waterproof Pop Up Camping Tent 2 Person",
+        "Quechua 2 Second Fresh & Black Waterproof Pop Up Camping Tent 3 Person"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "CitieSocial",
+      "domain": "pier39.fly.dev/citiesocial",
+      "tagline": "CitieSocial — premium quality, fair prices.",
+      "city": "Taipei, Taiwan",
+      "categories": [
+        "lifestyle",
+        "home",
+        "design"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "【絕美禮盒】簡約證件套｜微光紙革 (3色) ▶ 禮物包裝.收到即可送禮",
+        "【絕美禮盒】簡約證件套 (2色) ▶ 禮物包裝.收到即可送禮",
+        "簡約證件套｜微光紙革",
+        "簡約證件套"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Loreta",
+      "domain": "pier39.fly.dev/loreta",
+      "tagline": "Loreta — premium quality, fair prices.",
+      "city": "Australia",
+      "categories": [
+        "lifestyle",
+        "home"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Baby Doll Blush Dress",
+        "Tropical Spice Dress",
+        "Green Jungle Dress",
+        "Phoebe Blouse/Shirt (Lilac - Purple)"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Spigen",
+      "domain": "pier39.fly.dev/spigen",
+      "tagline": "Spigen — premium quality, fair prices.",
+      "city": "Seoul, South Korea",
+      "categories": [
+        "phone-cases",
+        "accessories",
+        "tech"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Tesla Series - CryoShade",
+        "iPhone 12 Series - Liquid Crystal",
+        "Carabiner Black Strap + Key Ring",
+        "Carabiner + Keyring"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Bee Inspired Clothing",
+      "domain": "pier39.fly.dev/bee-inspired-clothing",
+      "tagline": "Bee Inspired Clothing — premium quality, fair prices.",
+      "city": "Liverpool, UK",
+      "categories": [
+        "streetwear",
+        "mens-fashion",
+        "uk",
+        "apparel"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Inzaghi T-Shirt - Black/Pink",
+        "Inzaghi T-Shirt - White/Red",
+        "Tonali T-Shirt - White/Aqua",
+        "Tonali T-Shirt - Black/Aqua"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "RIPNDIP",
+      "domain": "pier39.fly.dev/ripndip",
+      "tagline": "RIPNDIP — premium quality, fair prices.",
+      "city": "Los Angeles, CA",
+      "categories": [
+        "streetwear",
+        "graphic-tees",
+        "skate",
+        "apparel"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Ripndip x NRG Lord Nermal Mirror (Clear)",
+        "Ripndip x NRG Stop Being A Pussy Quick Release (Black / Pink)",
+        "Ripndip x NRG Stop Being A Pussy Shift Knob (Black / Pink)",
+        "Ripndip x NRG Stop Being A Pussy Steering Wheel (Black / Pink)"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Bohme",
+      "domain": "pier39.fly.dev/bohme",
+      "tagline": "Bohme — premium quality, fair prices.",
+      "city": "Salt Lake City, UT",
+      "categories": [
+        "womens-fashion",
+        "boutique",
+        "apparel"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Zola Tank Top in Brown",
+        "Jordy Textured Maxi Dress in Cream",
+        "Halsey Floral Maxi Dress",
+        "Berkley Lace Trim Tank in Teal"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Creative Booster",
+      "domain": "pier39.fly.dev/creative-booster",
+      "tagline": "Creative Booster — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "digital-products",
+        "tech"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Riviera Stripe - Slim Phone Case",
+        "Orchard Stroll - Tough Phone Case (MagSafe)",
+        "Orchard Stroll - Tough Phone Case",
+        "Orchard Stroll - Slim Phone Case"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Peakdesign",
+      "domain": "pier39.fly.dev/peakdesign",
+      "tagline": "Peakdesign — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Travel Backpack | 20L | Stone",
+        "Travel Backpack | 20L | Sage",
+        "Travel Crossbody | 3L | Stone",
+        "Travel Crossbody | 3L | Sage"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "KBDfans",
+      "domain": "pier39.fly.dev/kbdfans",
+      "tagline": "KBDfans — premium quality, fair prices.",
+      "city": "Shenzhen, China",
+      "categories": [
+        "mechanical-keyboards",
+        "tech",
+        "diy"
+      ],
+      "products_count": 88,
+      "sample_products": [
+        "GSK Sweet Nightmare",
+        "Ready to use Agar wired hotswap version with PBTfans Calkis",
+        "TOFU PAD Accessories",
+        "GMK CYL King of the Seas"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Bajaao",
+      "domain": "pier39.fly.dev/bajaao",
+      "tagline": "Bajaao — premium quality, fair prices.",
+      "city": "Mumbai, India",
+      "categories": [
+        "musical-instruments",
+        "audio",
+        "music"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Vault Artisan TL Telecaster Style Electric Guitar with Premium Alnico 5 Pickups",
+        "Vault ST2 Stratocaster Style Electric Guitar with Premium Alnico 5 Pickups",
+        "Yamaha F310 Dreadnought Acoustic Guitar - Open Box B Stock",
+        "Fender Squier Classic Vibe '50s Stratocaster Electric Guitar - Open Box"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "The Yetee",
+      "domain": "pier39.fly.dev/the-yetee",
+      "tagline": "The Yetee — premium quality, fair prices.",
+      "city": "Iowa",
+      "categories": [
+        "graphic-tees",
+        "gaming",
+        "nerd-merch"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "The Silent",
+        "The Watcher",
+        "Video Game LoFi: PERSONA (Cassette)",
+        "Video Game LoFi: PERSONA (CD)"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Mavi",
+      "domain": "pier39.fly.dev/mavi",
+      "tagline": "Mavi — premium quality, fair prices.",
+      "city": "Istanbul, Turkey",
+      "categories": [
+        "denim",
+        "jeans",
+        "premium",
+        "apparel"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "JAKE SLIM LEG JEANS IN DARK INDIGO WILLIAMSBURG",
+        "PALOMA WIDE LEG IN BLACK FLEX BLUE",
+        "MATT RELAXED STRAIGHT LEG JEANS IN DOUBLE BLACK SUPERMOVE",
+        "MATT RELAXED STRAIGHT LEG IN ANTHRACITE CASUAL TWILL"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Goulet Pens",
+      "domain": "pier39.fly.dev/goulet-pens",
+      "tagline": "Goulet Pens — premium quality, fair prices.",
+      "city": "Richmond, VA",
+      "categories": [
+        "fountain-pens",
+        "ink",
+        "stationery"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "BENU Talisman Fountain Pen - Pink Opal",
+        "Dominant Industry Keyno Fountain Pen - No.014 Cherishment",
+        "Sailor 1911 Casual L Fountain Pen - Supernova Crimson (Limited Edition)",
+        "Sailor 1911 Casual L Fountain Pen - Solar Flare (Limited Edition)"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Culture Kings",
+      "domain": "pier39.fly.dev/culture-kings",
+      "tagline": "Culture Kings — premium quality, fair prices.",
+      "city": "Brisbane, Australia",
+      "categories": [
+        "streetwear",
+        "sneakers",
+        "hats",
+        "apparel"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Carre Lush T-Shirt Off White",
+        "Fifa USA Sweatpants Black",
+        "Saint Morta The Cross T-Shirt Black",
+        "Saint Morta Consortium T-Shirt Black"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "William Painter",
+      "domain": "pier39.fly.dev/william-painter",
+      "tagline": "William Painter — premium quality, fair prices.",
+      "city": "Salt Lake City, UT",
+      "categories": [
+        "sunglasses",
+        "eyewear",
+        "accessories"
+      ],
+      "products_count": 25,
+      "sample_products": [
+        "Z-Purple Dot Test Product",
+        "The Wrap",
+        "The Level Acetate",
+        "Titan Sock Pack"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Ridge",
+      "domain": "pier39.fly.dev/ridge",
+      "tagline": "Ridge — premium quality, fair prices.",
+      "city": "Sun Valley, CA",
+      "categories": [
+        "wallets",
+        "accessories",
+        "minimalist",
+        "mens"
+      ],
+      "products_count": 99,
+      "sample_products": [
+        "Ridge Wallet - Philadelphia Eagles - Carbon Fiber 3k",
+        "Ridge Wallet - Tennessee Titans",
+        "Ridge Wallet - Los Angeles Rams",
+        "Curb Chain Kit - Titanium - Large"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Outdoor Voices",
+      "domain": "pier39.fly.dev/outdoor-voices",
+      "tagline": "Outdoor Voices — premium quality, fair prices.",
+      "city": "Austin, TX",
+      "categories": [
+        "activewear",
+        "athleisure",
+        "leggings",
+        "apparel"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "RecTrek Zip Pant",
+        "RecTrek Zip Pant",
+        "Energy Dress",
+        "Volley Dress"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "MrBeast Shop",
+      "domain": "pier39.fly.dev/mrbeast-shop",
+      "tagline": "MrBeast Shop — premium quality, fair prices.",
+      "city": "Greenville, NC",
+      "categories": [
+        "creator-merch",
+        "youtube",
+        "apparel"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Beast FC Pivot Hoodie",
+        "Beast FC Player Card Hoodie",
+        "International Beast Soccer Hoodie",
+        "Beast FC Pivot Tee"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Secretlab",
+      "domain": "pier39.fly.dev/secretlab",
+      "tagline": "Secretlab — premium quality, fair prices.",
+      "city": "Singapore",
+      "categories": [
+        "gaming-chairs",
+        "office",
+        "tech"
+      ],
+      "products_count": 98,
+      "sample_products": [
+        "Secretlab Leatherette XL Desk Mat (Designed for MAGNUS Evo XL)",
+        "Secretlab Leatherette Desk Mat (Designed for MAGNUS Evo)",
+        "Secretlab MAGNUS Lockable Casters (Heavy Duty Edition)",
+        "Secretlab TITAN Evo - Small - Secretlab NEO™ Hybrid Leatherette"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "TeeFury",
+      "domain": "pier39.fly.dev/teefury",
+      "tagline": "TeeFury — premium quality, fair prices.",
+      "city": "Indiana",
+      "categories": [
+        "graphic-tees",
+        "pop-culture",
+        "apparel"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Darthzig",
+        "Darthzig",
+        "Darthzig",
+        "Darthzig"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Halo Beauty",
+      "domain": "pier39.fly.dev/halo-beauty",
+      "tagline": "Halo Beauty — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "beauty",
+        "supplements",
+        "haircare"
+      ],
+      "products_count": 45,
+      "sample_products": [
+        "Complete Beauty Foundation (HSN + Her Daily Multi)",
+        "Clear Skin + Foundation Bundle (Kiwi Skin Booster & Her Daily Multi)",
+        "Body + Beauty Bundle (TRYM + HSN combo)",
+        "Flowerdose Lip & Eye Serum"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Boys Don't Cry / Bdga",
+      "domain": "pier39.fly.dev/boys-don-t-cry-bdga",
+      "tagline": "Boys Don't Cry / Bdga — premium quality, fair prices.",
+      "city": "Los Angeles, CA",
+      "categories": [
+        "streetwear",
+        "fashion",
+        "apparel"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "RADIO DJ T-SHIRT",
+        "SMALL BASIC LOGO T-SHIRT",
+        "RECORD CONCERT MILK GLASS",
+        "RECORD CONCERT MILK GLASS"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "VICI",
+      "domain": "pier39.fly.dev/vici",
+      "tagline": "VICI — premium quality, fair prices.",
+      "city": "Boise, ID",
+      "categories": [
+        "womens-fashion",
+        "boutique",
+        "apparel"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Nyella Waist Tie Chambray Romper",
+        "Leelah Tiered Halter Neck Mini Dress",
+        "Maesy Tiered Halter Neck Chambray Maxi Dress",
+        "Korienna Mid Rise Chambray Shorts"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Al-Rugaib Furniture",
+      "domain": "pier39.fly.dev/al-rugaib-furniture",
+      "tagline": "Al-Rugaib Furniture — premium quality, fair prices.",
+      "city": "Saudi Arabia",
+      "categories": [
+        "furniture",
+        "home"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Woven Jute Rug with Gry Stripes - Natural Harmony",
+        "Rug 400*500 cm",
+        "Washed Diamond Rug",
+        "Vintage Moroccan Beni  Rug in Cream"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Morphe",
+      "domain": "pier39.fly.dev/morphe",
+      "tagline": "Morphe — premium quality, fair prices.",
+      "city": "Los Angeles, CA",
+      "categories": [
+        "makeup",
+        "beauty",
+        "cosmetics"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Fully Covered Lip Bundle",
+        "Cheek Thrills Duos + Dual-Ended Sculpt Brush",
+        "Ultimate Glow Trio",
+        "Feeling Cheeky bundle"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Deadstock",
+      "domain": "pier39.fly.dev/deadstock",
+      "tagline": "Deadstock — premium quality, fair prices.",
+      "city": "Vancouver, Canada",
+      "categories": [
+        "sneakers",
+        "streetwear",
+        "apparel"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Gramicci One Point T-Shirt / Black",
+        "Salt & Stone Body Mist / Santal & Vetiver",
+        "Brother Brother Palo Santo Tin / Newps",
+        "Brother Brother Palo Santo Tin / Marbs"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Black Tailor",
+      "domain": "pier39.fly.dev/black-tailor",
+      "tagline": "Black Tailor — premium quality, fair prices.",
+      "city": "Toronto, Canada",
+      "categories": [
+        "mens-tailoring",
+        "premium",
+        "apparel"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "B7 JACKET",
+        "C5 BOMBER",
+        "S4 CARGO SHORTS",
+        "S4 CARGO SHORTS"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "The Pi Hut",
+      "domain": "pier39.fly.dev/the-pi-hut",
+      "tagline": "The Pi Hut — premium quality, fair prices.",
+      "city": "Cambridge, UK",
+      "categories": [
+        "raspberry-pi",
+        "electronics",
+        "diy",
+        "tech"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "SupTronics X-FAN40 PWM Fan HAT",
+        "Uctronics 5V 5A PoE+ NVMe HAT for Raspberry Pi 5 (with Active Cooler)",
+        "Cable Brackets for Shelly Flood Gen4 (10-Pack)",
+        "SupTronics X1001-MAX High-Power NVMe Add-on for Raspberry Pi 5"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Headphone Zone",
+      "domain": "pier39.fly.dev/headphone-zone",
+      "tagline": "Headphone Zone — premium quality, fair prices.",
+      "city": "Mumbai, India",
+      "categories": [
+        "headphones",
+        "audio",
+        "tech"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "FiiO X Jade Audio - KA11 (Unboxed)",
+        "Tangzu - Wan'er S.G 2 Red Lion Edition (Unboxed)",
+        "Tangzu - Wan'er S.G 2 (Unboxed)",
+        "Truthear - NOVA (Unboxed)"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Fanjoy",
+      "domain": "pier39.fly.dev/fanjoy",
+      "tagline": "Fanjoy — premium quality, fair prices.",
+      "city": "Los Angeles, CA",
+      "categories": [
+        "creator-merch",
+        "youtube",
+        "apparel"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Six Seven Official Hoodie",
+        "Six Seven Crewneck Sweater",
+        "Fanjoy Mystery Hoodie",
+        "Fanjoy Mystery Hat"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Soylent",
+      "domain": "pier39.fly.dev/soylent",
+      "tagline": "Soylent — premium quality, fair prices.",
+      "city": "Los Angeles, CA",
+      "categories": [
+        "meal-replacement",
+        "drinks",
+        "supplements",
+        "food"
+      ],
+      "products_count": 78,
+      "sample_products": [
+        "Soylent complete coffee - mocha",
+        "Soylent complete meal neapolitan variety pack",
+        "Soylent complete meal - strawberry",
+        "Soylent complete meal - mint chocolate"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Timbuk2",
+      "domain": "pier39.fly.dev/timbuk2",
+      "tagline": "Timbuk2 — premium quality, fair prices.",
+      "city": "San Francisco, CA",
+      "categories": [
+        "bags",
+        "backpacks",
+        "messenger",
+        "accessories"
+      ],
+      "products_count": 94,
+      "sample_products": [
+        "Castle Crossbody Sling",
+        "Stow Packing Cubes",
+        "Relo Backpack",
+        "Long Haul Duffel"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "MediaMarkt Portugal",
+      "domain": "pier39.fly.dev/mediamarkt-portugal",
+      "tagline": "MediaMarkt Portugal — premium quality, fair prices.",
+      "city": "Portugal",
+      "categories": [
+        "electronics",
+        "appliances",
+        "tech"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Smart TV Samsung 75\" Neo QLED Mini-LED Vision AI UHD 4K The Frame Pro 75LS03HW (2026) - 189 cm",
+        "Smart TV Samsung 75\" Mini-LED Vision AI UHD 4K 75M80H (2026) - 189 cm",
+        "Smart TV Samsung 43\" Mini-LED Vision AI UHD 4K 43M70H - 109 cm",
+        "Smart TV Samsung 55\" Neo QLED Mini-LED Vision AI UHD 4K The Frame Pro 55LS03HW (2026) - 140 cm"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Victory Hangers",
+      "domain": "pier39.fly.dev/victory-hangers",
+      "tagline": "Victory Hangers — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "hangers",
+        "closet",
+        "home"
+      ],
+      "products_count": 99,
+      "sample_products": [
+        "Race Bib Holder + Medal Hanger Display Rack V2",
+        "Race Bib Holder + Medal Hanger Display Rack V1",
+        "World Marathons Majors Medal Hanger Display Rack V2",
+        "World Marathons Majors Medal Hanger Display Rack V1"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Sister Jane",
+      "domain": "pier39.fly.dev/sister-jane",
+      "tagline": "Sister Jane — premium quality, fair prices.",
+      "city": "London, UK",
+      "categories": [
+        "womens-fashion",
+        "vintage",
+        "uk",
+        "apparel"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Tommy Half Zip Sweat",
+        "Lens Frayed Overshirt",
+        "<b>DREAM</b> Illusions Jacquard Midi Dress",
+        "Memoria Jacquard Top"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Heatonist",
+      "domain": "pier39.fly.dev/heatonist",
+      "tagline": "Heatonist — premium quality, fair prices.",
+      "city": "Brooklyn, NY",
+      "categories": [
+        "hot-sauce",
+        "condiments",
+        "spicy",
+        "food"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Keith's Lasagna Sauce | Keith's",
+        "HEATONIST No. Eleven | Cantina Royal",
+        "White Hot Mustard Sauce | Quentin's Sauce -C",
+        "Smoked Serrano Squash Reaper X | Butterfly Bakery -C"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Unique Vintage",
+      "domain": "pier39.fly.dev/unique-vintage",
+      "tagline": "Unique Vintage — premium quality, fair prices.",
+      "city": "Burbank, CA",
+      "categories": [
+        "vintage",
+        "retro-fashion",
+        "womens",
+        "apparel"
+      ],
+      "products_count": 75,
+      "sample_products": [
+        "Smak Parlour Pink & Black Houndstooth Cosmic Shift Dress",
+        "Unique Vintage 1950s Black High Waist Tracy Wiggle Skirt",
+        "Unique Vintage 1950s Black Halter Marcel Jumpsuit",
+        "Smak Parlour Black Mock Turtleneck Wave Maker Mini Dress"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Lack of Color",
+      "domain": "pier39.fly.dev/lack-of-color",
+      "tagline": "Lack of Color — premium quality, fair prices.",
+      "city": "Sydney, Australia",
+      "categories": [
+        "hats",
+        "headwear",
+        "accessories"
+      ],
+      "products_count": 95,
+      "sample_products": [
+        "Chevron Beanie Band - Cappuccino",
+        "Crochet Hat - Sunwave",
+        "Crochet Hat - Coco",
+        "Triangle Bandana - Sunkissed"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "King Ice",
+      "domain": "pier39.fly.dev/king-ice",
+      "tagline": "King Ice — premium quality, fair prices.",
+      "city": "Los Angeles, CA",
+      "categories": [
+        "jewelry",
+        "hip-hop",
+        "chains",
+        "accessories"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Iced Erotic Erecting Penis Necklace",
+        "Gold Arctic III Watch",
+        "White Gold Arctic III Watch",
+        "Gold Arctic II Watch"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Natural Baby Shower",
+      "domain": "pier39.fly.dev/natural-baby-shower",
+      "tagline": "Natural Baby Shower — premium quality, fair prices.",
+      "city": "London, UK",
+      "categories": [
+        "baby",
+        "kids",
+        "natural",
+        "uk"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Done by Deer Tiny Backpack - Tiny Farm Sand",
+        "Done by Deer Tiny Lunch Box With Snack Picks - Tiny Farm Powder",
+        "Done by Deer Lunch Box With Divider - Tiny Trails Green",
+        "Done by Deer Tiny Insulated Lunch - Tiny Farm Sand"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Mous",
+      "domain": "pier39.fly.dev/mous",
+      "tagline": "Mous — premium quality, fair prices.",
+      "city": "London, UK",
+      "categories": [
+        "phone-cases",
+        "accessories",
+        "tech"
+      ],
+      "products_count": 98,
+      "sample_products": [
+        "Hardshell Carry-on Suitcase",
+        "Adventure Travel Bundle",
+        "Black Phone Case - Super Thin",
+        "Marine Protective Case, Screen Protector and Card Wallet - Apple Starter Kit"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Zoo Fashions",
+      "domain": "pier39.fly.dev/zoo-fashions",
+      "tagline": "Zoo Fashions — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "fashion",
+        "apparel"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Black Leather 2 Buckle Belt",
+        "Black Leather Belted Sandals",
+        "Black Leather Chain-Embellished Sandals",
+        "Amiri Black Striped Creased Flare Trousers"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Limited Run Games",
+      "domain": "pier39.fly.dev/limited-run-games",
+      "tagline": "Limited Run Games — premium quality, fair prices.",
+      "city": "Cary, NC",
+      "categories": [
+        "physical-games",
+        "collectibles",
+        "gaming"
+      ],
+      "products_count": 99,
+      "sample_products": [
+        "Alien: Rogue Incursion Evolved Edition - SteelBook Edition (Switch 2, PS5, Xbox, PC)",
+        "Alien: Rogue Incursion Evolved Edition - Standard Edition (Switch 2, PS5, Xbox, PC)",
+        "STAR OCEAN First Departure R Standard Edition Event Exclusive (Switch, PS4)",
+        "Tomba! 2: The Evil Swine Return Special Edition Standard Edition Event Exclusive (Switch)"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Teddy Fresh",
+      "domain": "pier39.fly.dev/teddy-fresh",
+      "tagline": "Teddy Fresh — premium quality, fair prices.",
+      "city": "Los Angeles, CA",
+      "categories": [
+        "streetwear",
+        "graphic-fashion",
+        "apparel"
+      ],
+      "products_count": 49,
+      "sample_products": [
+        "TF x Smokey Bear Critters Overalls",
+        "Thank You Mom Tee",
+        "Rainbow Hard Zip Baja Hoodie",
+        "Alfufu Sticker Pack"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Indestructible Shoes",
+      "domain": "pier39.fly.dev/indestructible-shoes",
+      "tagline": "Indestructible Shoes — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "footwear",
+        "work-shoes",
+        "safety",
+        "apparel"
+      ],
+      "products_count": 91,
+      "sample_products": [
+        "J3 Black",
+        "FlashWalk Black/Blue",
+        "FlashWalk Indestructible Shoes",
+        "FlashWalk Grey"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Live Fit Apparel",
+      "domain": "pier39.fly.dev/live-fit-apparel",
+      "tagline": "Live Fit Apparel — premium quality, fair prices.",
+      "city": "Los Angeles, CA",
+      "categories": [
+        "fitness",
+        "activewear",
+        "gym",
+        "apparel"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Vintage Sleeveless Slate Hoodie -Black",
+        "Vintage Sleeveless Slate Hoodie - Stone",
+        "Oxford Crop Tee - Bone",
+        "Oxford Crop Tee - Baby Blue"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Race Day Quads",
+      "domain": "pier39.fly.dev/race-day-quads",
+      "tagline": "Race Day Quads — premium quality, fair prices.",
+      "city": "Pennsylvania",
+      "categories": [
+        "drones",
+        "fpv",
+        "racing",
+        "tech"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "BETAFPV Air II Canopy",
+        "HQProp MacroQuad 9X4X3 3-Blade Propeller (Set of 4)",
+        "HQProp LR10x5x3 3-Blade Propeller (Set of 4)",
+        "HQProp LR10x6x3 3-Blade Propeller (Set of 4)"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "The Brick",
+      "domain": "pier39.fly.dev/the-brick",
+      "tagline": "The Brick — premium quality, fair prices.",
+      "city": "Edmonton, Canada",
+      "categories": [
+        "furniture",
+        "appliances",
+        "home"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Samsung 24\" 46 dBA Built-In Top-Control Dishwasher with 3rd Rack - DW80CG5451SRAA | Lave-vaisselle encastré Samsung à 46 dBA de 24 po avec commandes sur le dessus et 3e panier - DW80CG…",
+        "Sofa Lab Roll LAF Sofa Return - Luna Praline | Sofa de gauche pour rallonge Roll de la collection Sofa Lab - Luna praline | RO152591",
+        "Sofa Lab Track Square Wedge - Pax Wicker | Fauteuil carré en coin Track de la collection Sofa Lab - Pax Wicker | TR883349",
+        "Sofa Lab Roll RAF Sofa Return - Pax Wicker | Sofa de droite pour rallonge Roll de la collection Sofa Lab - Pax Wicker | RO163349"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Onewheel",
+      "domain": "pier39.fly.dev/onewheel",
+      "tagline": "Onewheel — premium quality, fair prices.",
+      "city": "San Mateo, CA",
+      "categories": [
+        "onewheel",
+        "electric-skateboard",
+        "tech"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Onewheel Shoe",
+        "Onewheel Adventure: The Dolomites 2026",
+        "Onewheel Adventure: Southern Utah Tour",
+        "XL Hybrid Fender"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Pimax",
+      "domain": "pier39.fly.dev/pimax",
+      "tagline": "Pimax — premium quality, fair prices.",
+      "city": "Shanghai, China",
+      "categories": [
+        "vr",
+        "headsets",
+        "tech"
+      ],
+      "products_count": 88,
+      "sample_products": [
+        "Pimax $150 Accessory Bundle Voucher (May Special Edition)",
+        "Return Shipping Assurance",
+        "Pimax x Orbx: Jurassic World: Archipelago Bundle",
+        "Pimax x Micro Vision PC Bundle"
+      ],
+      "added": "2026-05-07"
     }
   ]
 }
