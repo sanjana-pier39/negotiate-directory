@@ -47,6 +47,111 @@
         "Vintage Stripes Quarter Sock"
       ],
       "added": "2026-05-06"
+    },
+    {
+      "name": "Allbirds",
+      "domain": "allbirds-pier39-demo.fly.dev",
+      "tagline": "Naturally derived materials. The world's most comfortable shoes — made from wool, eucalyptus, and sugar cane.",
+      "city": "San Francisco, CA",
+      "categories": ["shoes", "sneakers", "footwear", "sustainable-fashion", "apparel"],
+      "products_count": 100,
+      "sample_products": [
+        "Wool Runner",
+        "Tree Runner",
+        "Mizzle Pacer",
+        "Wool Lounger"
+      ],
+      "added": "2026-05-06"
+    },
+    {
+      "name": "Knix",
+      "domain": "knix-pier39-demo.fly.dev",
+      "tagline": "Leakproof underwear and bras for every body. Engineered for periods, leaks, and life.",
+      "city": "Toronto, Canada",
+      "categories": ["underwear", "bras", "intimates", "leakproof", "womens-basics", "apparel"],
+      "products_count": 100,
+      "sample_products": [
+        "Leakproof Boyshort",
+        "Catalyst Sports Bra",
+        "High-Waist Leakproof Brief",
+        "Modal Tank"
+      ],
+      "added": "2026-05-06"
+    },
+    {
+      "name": "ThirdLove",
+      "domain": "thirdlove-pier39-demo.fly.dev",
+      "tagline": "Bras and intimates in over 80 sizes — including half sizes the rest of the industry skips.",
+      "city": "San Francisco, CA",
+      "categories": ["bras", "underwear", "intimates", "womens", "apparel"],
+      "products_count": 100,
+      "sample_products": [
+        "24/7 Classic T-Shirt Bra",
+        "Form 360 Lace Bra",
+        "Cotton Hipster",
+        "Smoothing Bralette"
+      ],
+      "added": "2026-05-06"
+    },
+    {
+      "name": "UNTUCKit",
+      "domain": "untuckit-pier39-demo.fly.dev",
+      "tagline": "Shirts designed to be worn untucked. Just-right length, no math required.",
+      "city": "New York, NY",
+      "categories": ["mens-shirts", "dress-shirts", "mens-fashion", "casual-wear", "apparel"],
+      "products_count": 100,
+      "sample_products": [
+        "Wrinkle-Free Mason Shirt",
+        "Performance Polo",
+        "Slim-Fit Chinos",
+        "UNTUCKit Stretch Shirt"
+      ],
+      "added": "2026-05-06"
+    },
+    {
+      "name": "Aviator Nation",
+      "domain": "aviator-nation-pier39-demo.fly.dev",
+      "tagline": "Vintage-inspired California beach lifestyle. Premium fleece, hand-distressed in Venice.",
+      "city": "Venice, CA",
+      "categories": ["sweatshirts", "hoodies", "vintage", "lifestyle", "fleece", "apparel"],
+      "products_count": 80,
+      "sample_products": [
+        "Bolt Stripe Sweatshirt",
+        "Bolt Stripe Sweatpants",
+        "Vintage Sport Tee",
+        "5 Stripe Hoodie"
+      ],
+      "added": "2026-05-06"
+    },
+    {
+      "name": "Cotopaxi",
+      "domain": "cotopaxi-pier39-demo.fly.dev",
+      "tagline": "Outdoor gear that does good. Vibrant colors, durable construction, and 1% of revenue fights poverty.",
+      "city": "Salt Lake City, UT",
+      "categories": ["outdoor", "backpacks", "jackets", "travel-gear", "sustainable", "adventure", "apparel"],
+      "products_count": 100,
+      "sample_products": [
+        "Allpa 35L Travel Pack",
+        "Fuego Down Jacket",
+        "Bataan Fanny Pack",
+        "Teca Fleece Jacket"
+      ],
+      "added": "2026-05-06"
+    },
+    {
+      "name": "Daniel Wellington",
+      "domain": "daniel-wellington-pier39-demo.fly.dev",
+      "tagline": "Minimalist Scandinavian watches with interchangeable straps. Timeless design, accessible price.",
+      "city": "Stockholm, Sweden",
+      "categories": ["watches", "accessories", "minimalist", "scandinavian-design", "fashion"],
+      "products_count": 100,
+      "sample_products": [
+        "Classic Petite Melrose",
+        "Iconic Link",
+        "Iconic Motion",
+        "Quadro"
+      ],
+      "added": "2026-05-06"
     }
   ]
 }
