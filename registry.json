@@ -152,6 +152,66 @@
         "Quadro"
       ],
       "added": "2026-05-06"
+    },
+    {
+      "name": "Magic Spoon",
+      "domain": "magic-spoon-pier39-demo.fly.dev",
+      "tagline": "High-protein, low-carb, zero-sugar cereal. Tastes like Saturday morning, fits like Tuesday lunch.",
+      "city": "New York, NY",
+      "categories": ["cereal", "breakfast", "snacks", "high-protein", "keto", "low-carb", "food"],
+      "products_count": 100,
+      "sample_products": [
+        "Cocoa Cereal",
+        "Fruity Cereal",
+        "Frosted Cereal",
+        "Peanut Butter Cereal"
+      ],
+      "added": "2026-05-06"
+    },
+    {
+      "name": "Olipop",
+      "domain": "olipop-pier39-demo.fly.dev",
+      "tagline": "Prebiotic soda with the flavors you remember and gut-health benefits you didn't know you wanted.",
+      "city": "Oakland, CA",
+      "categories": ["soda", "beverage", "prebiotic", "gut-health", "wellness", "food"],
+      "products_count": 100,
+      "sample_products": [
+        "Vintage Cola",
+        "Strawberry Vanilla",
+        "Cherry Vanilla",
+        "Classic Root Beer"
+      ],
+      "added": "2026-05-06"
+    },
+    {
+      "name": "Liquid Death",
+      "domain": "liquid-death-pier39-demo.fly.dev",
+      "tagline": "Murder your thirst. Mountain water and sparkling teas in tallboy cans. 100% recycled aluminum, eternal profanity.",
+      "city": "Los Angeles, CA",
+      "categories": ["water", "sparkling-water", "tea", "beverage", "canned-water", "food"],
+      "products_count": 100,
+      "sample_products": [
+        "Mountain Water 16.9oz Tallboy",
+        "Severed Lime Sparkling",
+        "Berry It Alive Tea",
+        "Convicted Melon Sparkling"
+      ],
+      "added": "2026-05-06"
+    },
+    {
+      "name": "Dr. Squatch",
+      "domain": "dr-squatch-pier39-demo.fly.dev",
+      "tagline": "Natural soap that performs. Pine Tar, Cool Fresh Aloe, Bay Rum — built for men who don't want chemicals on their skin.",
+      "city": "Marina del Rey, CA",
+      "categories": ["soap", "personal-care", "mens-grooming", "natural-skincare", "shampoo"],
+      "products_count": 100,
+      "sample_products": [
+        "Pine Tar Soap",
+        "Cool Fresh Aloe Soap",
+        "Bay Rum Soap",
+        "Cedar Citrus Soap"
+      ],
+      "added": "2026-05-06"
     }
   ]
 }
