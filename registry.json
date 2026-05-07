@@ -7,7 +7,14 @@
       "domain": "negotiate.pier39.ai",
       "tagline": "Premium home tech, outlet pricing.",
       "city": "Atlanta, GA",
-      "categories": ["appliances", "home", "dyson", "vacuum", "hair-care", "air-quality"],
+      "categories": [
+        "appliances",
+        "home",
+        "dyson",
+        "vacuum",
+        "hair-care",
+        "air-quality"
+      ],
       "products_count": 4,
       "sample_products": [
         "Dyson V15 Detect Absolute",
@@ -23,7 +30,13 @@
       "domain": "skout-organic-negotiate.fly.dev",
       "tagline": "Organic energy bars, kids bars, and protein bars. AI shoppers welcome.",
       "city": "Austin, TX",
-      "categories": ["food", "snacks", "energy-bars", "kids-snacks", "organic"],
+      "categories": [
+        "food",
+        "snacks",
+        "energy-bars",
+        "kids-snacks",
+        "organic"
+      ],
       "products_count": 29,
       "sample_products": [
         "Apple Pie Kids Bar",
@@ -35,10 +48,16 @@
     },
     {
       "name": "Bombas",
-      "domain": "bombas-pier39-demo.fly.dev",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/bombas",
       "tagline": "Comfort socks, underwear, and basics. Buy One, Give One — every item donates one to those experiencing homelessness.",
       "city": "Brooklyn, NY",
-      "categories": ["socks", "apparel", "basics", "athletic-socks", "dress-socks"],
+      "categories": [
+        "socks",
+        "apparel",
+        "basics",
+        "athletic-socks",
+        "dress-socks"
+      ],
       "products_count": 100,
       "sample_products": [
         "Performance Running Sock",
@@ -50,10 +69,16 @@
     },
     {
       "name": "Allbirds",
-      "domain": "allbirds-pier39-demo.fly.dev",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/allbirds",
       "tagline": "Naturally derived materials. The world's most comfortable shoes — made from wool, eucalyptus, and sugar cane.",
       "city": "San Francisco, CA",
-      "categories": ["shoes", "sneakers", "footwear", "sustainable-fashion", "apparel"],
+      "categories": [
+        "shoes",
+        "sneakers",
+        "footwear",
+        "sustainable-fashion",
+        "apparel"
+      ],
       "products_count": 100,
       "sample_products": [
         "Wool Runner",
@@ -65,10 +90,17 @@
     },
     {
       "name": "Knix",
-      "domain": "knix-pier39-demo.fly.dev",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/knix",
       "tagline": "Leakproof underwear and bras for every body. Engineered for periods, leaks, and life.",
       "city": "Toronto, Canada",
-      "categories": ["underwear", "bras", "intimates", "leakproof", "womens-basics", "apparel"],
+      "categories": [
+        "underwear",
+        "bras",
+        "intimates",
+        "leakproof",
+        "womens-basics",
+        "apparel"
+      ],
       "products_count": 100,
       "sample_products": [
         "Leakproof Boyshort",
@@ -80,10 +112,16 @@
     },
     {
       "name": "ThirdLove",
-      "domain": "thirdlove-pier39-demo.fly.dev",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/thirdlove",
       "tagline": "Bras and intimates in over 80 sizes — including half sizes the rest of the industry skips.",
       "city": "San Francisco, CA",
-      "categories": ["bras", "underwear", "intimates", "womens", "apparel"],
+      "categories": [
+        "bras",
+        "underwear",
+        "intimates",
+        "womens",
+        "apparel"
+      ],
       "products_count": 100,
       "sample_products": [
         "24/7 Classic T-Shirt Bra",
@@ -95,10 +133,16 @@
     },
     {
       "name": "UNTUCKit",
-      "domain": "untuckit-pier39-demo.fly.dev",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/untuckit",
       "tagline": "Shirts designed to be worn untucked. Just-right length, no math required.",
       "city": "New York, NY",
-      "categories": ["mens-shirts", "dress-shirts", "mens-fashion", "casual-wear", "apparel"],
+      "categories": [
+        "mens-shirts",
+        "dress-shirts",
+        "mens-fashion",
+        "casual-wear",
+        "apparel"
+      ],
       "products_count": 100,
       "sample_products": [
         "Wrinkle-Free Mason Shirt",
@@ -110,10 +154,17 @@
     },
     {
       "name": "Aviator Nation",
-      "domain": "aviator-nation-pier39-demo.fly.dev",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/aviator-nation",
       "tagline": "Vintage-inspired California beach lifestyle. Premium fleece, hand-distressed in Venice.",
       "city": "Venice, CA",
-      "categories": ["sweatshirts", "hoodies", "vintage", "lifestyle", "fleece", "apparel"],
+      "categories": [
+        "sweatshirts",
+        "hoodies",
+        "vintage",
+        "lifestyle",
+        "fleece",
+        "apparel"
+      ],
       "products_count": 80,
       "sample_products": [
         "Bolt Stripe Sweatshirt",
@@ -125,10 +176,18 @@
     },
     {
       "name": "Cotopaxi",
-      "domain": "cotopaxi-pier39-demo.fly.dev",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/cotopaxi",
       "tagline": "Outdoor gear that does good. Vibrant colors, durable construction, and 1% of revenue fights poverty.",
       "city": "Salt Lake City, UT",
-      "categories": ["outdoor", "backpacks", "jackets", "travel-gear", "sustainable", "adventure", "apparel"],
+      "categories": [
+        "outdoor",
+        "backpacks",
+        "jackets",
+        "travel-gear",
+        "sustainable",
+        "adventure",
+        "apparel"
+      ],
       "products_count": 100,
       "sample_products": [
         "Allpa 35L Travel Pack",
@@ -140,10 +199,16 @@
     },
     {
       "name": "Daniel Wellington",
-      "domain": "daniel-wellington-pier39-demo.fly.dev",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/daniel-wellington",
       "tagline": "Minimalist Scandinavian watches with interchangeable straps. Timeless design, accessible price.",
       "city": "Stockholm, Sweden",
-      "categories": ["watches", "accessories", "minimalist", "scandinavian-design", "fashion"],
+      "categories": [
+        "watches",
+        "accessories",
+        "minimalist",
+        "scandinavian-design",
+        "fashion"
+      ],
       "products_count": 100,
       "sample_products": [
         "Classic Petite Melrose",
@@ -155,10 +220,18 @@
     },
     {
       "name": "Magic Spoon",
-      "domain": "magic-spoon-pier39-demo.fly.dev",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/magic-spoon",
       "tagline": "High-protein, low-carb, zero-sugar cereal. Tastes like Saturday morning, fits like Tuesday lunch.",
       "city": "New York, NY",
-      "categories": ["cereal", "breakfast", "snacks", "high-protein", "keto", "low-carb", "food"],
+      "categories": [
+        "cereal",
+        "breakfast",
+        "snacks",
+        "high-protein",
+        "keto",
+        "low-carb",
+        "food"
+      ],
       "products_count": 100,
       "sample_products": [
         "Cocoa Cereal",
@@ -170,10 +243,17 @@
     },
     {
       "name": "Olipop",
-      "domain": "olipop-pier39-demo.fly.dev",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/olipop",
       "tagline": "Prebiotic soda with the flavors you remember and gut-health benefits you didn't know you wanted.",
       "city": "Oakland, CA",
-      "categories": ["soda", "beverage", "prebiotic", "gut-health", "wellness", "food"],
+      "categories": [
+        "soda",
+        "beverage",
+        "prebiotic",
+        "gut-health",
+        "wellness",
+        "food"
+      ],
       "products_count": 100,
       "sample_products": [
         "Vintage Cola",
@@ -185,10 +265,17 @@
     },
     {
       "name": "Liquid Death",
-      "domain": "liquid-death-pier39-demo.fly.dev",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/liquid-death",
       "tagline": "Murder your thirst. Mountain water and sparkling teas in tallboy cans. 100% recycled aluminum, eternal profanity.",
       "city": "Los Angeles, CA",
-      "categories": ["water", "sparkling-water", "tea", "beverage", "canned-water", "food"],
+      "categories": [
+        "water",
+        "sparkling-water",
+        "tea",
+        "beverage",
+        "canned-water",
+        "food"
+      ],
       "products_count": 100,
       "sample_products": [
         "Mountain Water 16.9oz Tallboy",
@@ -200,10 +287,16 @@
     },
     {
       "name": "Dr. Squatch",
-      "domain": "dr-squatch-pier39-demo.fly.dev",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/dr-squatch",
       "tagline": "Natural soap that performs. Pine Tar, Cool Fresh Aloe, Bay Rum — built for men who don't want chemicals on their skin.",
       "city": "Marina del Rey, CA",
-      "categories": ["soap", "personal-care", "mens-grooming", "natural-skincare", "shampoo"],
+      "categories": [
+        "soap",
+        "personal-care",
+        "mens-grooming",
+        "natural-skincare",
+        "shampoo"
+      ],
       "products_count": 100,
       "sample_products": [
         "Pine Tar Soap",
