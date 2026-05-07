@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-05-03",
+  "updated": "2026-05-06",
   "stores": [
     {
       "name": "Atlas Premium Appliance",
@@ -30,6 +30,21 @@
         "Blueberry Blast Kids Bar",
         "Peanut Butter Protein Bar",
         "Soft Baked Cookies"
+      ],
+      "added": "2026-05-06"
+    },
+    {
+      "name": "Bombas",
+      "domain": "bombas-pier39-demo.fly.dev",
+      "tagline": "Comfort socks, underwear, and basics. Buy One, Give One — every item donates one to those experiencing homelessness.",
+      "city": "Brooklyn, NY",
+      "categories": ["socks", "apparel", "basics", "athletic-socks", "dress-socks"],
+      "products_count": 100,
+      "sample_products": [
+        "Performance Running Sock",
+        "Cushioned Crew Sock",
+        "Half-Calf Sock",
+        "Vintage Stripes Quarter Sock"
       ],
       "added": "2026-05-06"
     }
