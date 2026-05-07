@@ -48,7 +48,7 @@
     },
     {
       "name": "Bombas",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/bombas",
+      "domain": "pier39.fly.dev/bombas",
       "tagline": "Comfort socks, underwear, and basics. Buy One, Give One — every item donates one to those experiencing homelessness.",
       "city": "Brooklyn, NY",
       "categories": [
@@ -69,7 +69,7 @@
     },
     {
       "name": "Allbirds",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/allbirds",
+      "domain": "pier39.fly.dev/allbirds",
       "tagline": "Naturally derived materials. The world's most comfortable shoes — made from wool, eucalyptus, and sugar cane.",
       "city": "San Francisco, CA",
       "categories": [
@@ -90,7 +90,7 @@
     },
     {
       "name": "Knix",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/knix",
+      "domain": "pier39.fly.dev/knix",
       "tagline": "Leakproof underwear and bras for every body. Engineered for periods, leaks, and life.",
       "city": "Toronto, Canada",
       "categories": [
@@ -112,7 +112,7 @@
     },
     {
       "name": "ThirdLove",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/thirdlove",
+      "domain": "pier39.fly.dev/thirdlove",
       "tagline": "Bras and intimates in over 80 sizes — including half sizes the rest of the industry skips.",
       "city": "San Francisco, CA",
       "categories": [
@@ -133,7 +133,7 @@
     },
     {
       "name": "UNTUCKit",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/untuckit",
+      "domain": "pier39.fly.dev/untuckit",
       "tagline": "Shirts designed to be worn untucked. Just-right length, no math required.",
       "city": "New York, NY",
       "categories": [
@@ -154,7 +154,7 @@
     },
     {
       "name": "Aviator Nation",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/aviator-nation",
+      "domain": "pier39.fly.dev/aviator-nation",
       "tagline": "Vintage-inspired California beach lifestyle. Premium fleece, hand-distressed in Venice.",
       "city": "Venice, CA",
       "categories": [
@@ -176,7 +176,7 @@
     },
     {
       "name": "Cotopaxi",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/cotopaxi",
+      "domain": "pier39.fly.dev/cotopaxi",
       "tagline": "Outdoor gear that does good. Vibrant colors, durable construction, and 1% of revenue fights poverty.",
       "city": "Salt Lake City, UT",
       "categories": [
@@ -199,7 +199,7 @@
     },
     {
       "name": "Daniel Wellington",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/daniel-wellington",
+      "domain": "pier39.fly.dev/daniel-wellington",
       "tagline": "Minimalist Scandinavian watches with interchangeable straps. Timeless design, accessible price.",
       "city": "Stockholm, Sweden",
       "categories": [
@@ -220,7 +220,7 @@
     },
     {
       "name": "Magic Spoon",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/magic-spoon",
+      "domain": "pier39.fly.dev/magic-spoon",
       "tagline": "High-protein, low-carb, zero-sugar cereal. Tastes like Saturday morning, fits like Tuesday lunch.",
       "city": "New York, NY",
       "categories": [
@@ -243,7 +243,7 @@
     },
     {
       "name": "Olipop",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/olipop",
+      "domain": "pier39.fly.dev/olipop",
       "tagline": "Prebiotic soda with the flavors you remember and gut-health benefits you didn't know you wanted.",
       "city": "Oakland, CA",
       "categories": [
@@ -265,7 +265,7 @@
     },
     {
       "name": "Liquid Death",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/liquid-death",
+      "domain": "pier39.fly.dev/liquid-death",
       "tagline": "Murder your thirst. Mountain water and sparkling teas in tallboy cans. 100% recycled aluminum, eternal profanity.",
       "city": "Los Angeles, CA",
       "categories": [
@@ -287,7 +287,7 @@
     },
     {
       "name": "Dr. Squatch",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/dr-squatch",
+      "domain": "pier39.fly.dev/dr-squatch",
       "tagline": "Natural soap that performs. Pine Tar, Cool Fresh Aloe, Bay Rum — built for men who don't want chemicals on their skin.",
       "city": "Marina del Rey, CA",
       "categories": [
@@ -308,7 +308,7 @@
     },
     {
       "name": "Gymshark",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/gymshark",
+      "domain": "pier39.fly.dev/gymshark",
       "tagline": "Gymshark, accessible to AI shoppers via negotiate.v1.",
       "city": "Solihull, UK",
       "categories": [
@@ -328,7 +328,7 @@
     },
     {
       "name": "Taylor Stitch",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/taylor-stitch",
+      "domain": "pier39.fly.dev/taylor-stitch",
       "tagline": "Taylor Stitch, accessible to AI shoppers via negotiate.v1.",
       "city": "San Francisco, CA",
       "categories": [
@@ -348,7 +348,7 @@
     },
     {
       "name": "Steve Madden",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/steve-madden",
+      "domain": "pier39.fly.dev/steve-madden",
       "tagline": "Steve Madden, accessible to AI shoppers via negotiate.v1.",
       "city": "Long Island City, NY",
       "categories": [
@@ -368,7 +368,7 @@
     },
     {
       "name": "OddBalls",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/oddballs",
+      "domain": "pier39.fly.dev/oddballs",
       "tagline": "OddBalls, accessible to AI shoppers via negotiate.v1.",
       "city": "Northampton, UK",
       "categories": [
@@ -388,7 +388,7 @@
     },
     {
       "name": "Rebecca Minkoff",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/rebecca-minkoff",
+      "domain": "pier39.fly.dev/rebecca-minkoff",
       "tagline": "Rebecca Minkoff, accessible to AI shoppers via negotiate.v1.",
       "city": "New York, NY",
       "categories": [
@@ -408,7 +408,7 @@
     },
     {
       "name": "Fashion Nova",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/fashion-nova",
+      "domain": "pier39.fly.dev/fashion-nova",
       "tagline": "Fashion Nova, accessible to AI shoppers via negotiate.v1.",
       "city": "Los Angeles, CA",
       "categories": [
@@ -428,7 +428,7 @@
     },
     {
       "name": "Kith",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/kith",
+      "domain": "pier39.fly.dev/kith",
       "tagline": "Kith, accessible to AI shoppers via negotiate.v1.",
       "city": "New York, NY",
       "categories": [
@@ -448,7 +448,7 @@
     },
     {
       "name": "Chubbies",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/chubbies",
+      "domain": "pier39.fly.dev/chubbies",
       "tagline": "Chubbies, accessible to AI shoppers via negotiate.v1.",
       "city": "Austin, TX",
       "categories": [
@@ -468,7 +468,7 @@
     },
     {
       "name": "Taylor Swift Store",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/taylor-swift-store",
+      "domain": "pier39.fly.dev/taylor-swift-store",
       "tagline": "Taylor Swift Store, accessible to AI shoppers via negotiate.v1.",
       "city": "—",
       "categories": [
@@ -487,7 +487,7 @@
     },
     {
       "name": "Pura Vida Bracelets",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/pura-vida-bracelets",
+      "domain": "pier39.fly.dev/pura-vida-bracelets",
       "tagline": "Pura Vida Bracelets, accessible to AI shoppers via negotiate.v1.",
       "city": "La Jolla, CA",
       "categories": [
@@ -506,7 +506,7 @@
     },
     {
       "name": "New Era",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/new-era",
+      "domain": "pier39.fly.dev/new-era",
       "tagline": "New Era, accessible to AI shoppers via negotiate.v1.",
       "city": "Buffalo, NY",
       "categories": [
@@ -526,7 +526,7 @@
     },
     {
       "name": "Elder Statesman",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/elder-statesman",
+      "domain": "pier39.fly.dev/elder-statesman",
       "tagline": "Elder Statesman, accessible to AI shoppers via negotiate.v1.",
       "city": "Los Angeles, CA",
       "categories": [
@@ -546,7 +546,7 @@
     },
     {
       "name": "Paramount Shop",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/paramount-shop",
+      "domain": "pier39.fly.dev/paramount-shop",
       "tagline": "Paramount Shop, accessible to AI shoppers via negotiate.v1.",
       "city": "—",
       "categories": [
@@ -566,7 +566,7 @@
     },
     {
       "name": "Nutrimuscle",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/nutrimuscle",
+      "domain": "pier39.fly.dev/nutrimuscle",
       "tagline": "Nutrimuscle, accessible to AI shoppers via negotiate.v1.",
       "city": "Belgium",
       "categories": [
@@ -586,7 +586,7 @@
     },
     {
       "name": "Haus",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/haus",
+      "domain": "pier39.fly.dev/haus",
       "tagline": "Haus, accessible to AI shoppers via negotiate.v1.",
       "city": "Sonoma, CA",
       "categories": [
@@ -606,7 +606,7 @@
     },
     {
       "name": "Stumptown Coffee",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/stumptown-coffee",
+      "domain": "pier39.fly.dev/stumptown-coffee",
       "tagline": "Stumptown Coffee, accessible to AI shoppers via negotiate.v1.",
       "city": "Portland, OR",
       "categories": [
@@ -626,7 +626,7 @@
     },
     {
       "name": "Pipcorn",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/pipcorn",
+      "domain": "pier39.fly.dev/pipcorn",
       "tagline": "Pipcorn, accessible to AI shoppers via negotiate.v1.",
       "city": "Brooklyn, NY",
       "categories": [
@@ -646,7 +646,7 @@
     },
     {
       "name": "Death Wish Coffee",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/death-wish-coffee",
+      "domain": "pier39.fly.dev/death-wish-coffee",
       "tagline": "Death Wish Coffee, accessible to AI shoppers via negotiate.v1.",
       "city": "Round Lake, NY",
       "categories": [
@@ -666,7 +666,7 @@
     },
     {
       "name": "Partake Foods",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/partake-foods",
+      "domain": "pier39.fly.dev/partake-foods",
       "tagline": "Partake Foods, accessible to AI shoppers via negotiate.v1.",
       "city": "Jersey City, NJ",
       "categories": [
@@ -686,7 +686,7 @@
     },
     {
       "name": "PRESS Healthfoods",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/press-healthfoods",
+      "domain": "pier39.fly.dev/press-healthfoods",
       "tagline": "PRESS Healthfoods, accessible to AI shoppers via negotiate.v1.",
       "city": "London, UK",
       "categories": [
@@ -706,7 +706,7 @@
     },
     {
       "name": "Jeffree Star Cosmetics",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/jeffree-star-cosmetics",
+      "domain": "pier39.fly.dev/jeffree-star-cosmetics",
       "tagline": "Jeffree Star Cosmetics, accessible to AI shoppers via negotiate.v1.",
       "city": "Los Angeles, CA",
       "categories": [
@@ -725,7 +725,7 @@
     },
     {
       "name": "Kylie Cosmetics",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/kylie-cosmetics",
+      "domain": "pier39.fly.dev/kylie-cosmetics",
       "tagline": "Kylie Cosmetics, accessible to AI shoppers via negotiate.v1.",
       "city": "Calabasas, CA",
       "categories": [
@@ -744,7 +744,7 @@
     },
     {
       "name": "Beardbrand",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/beardbrand",
+      "domain": "pier39.fly.dev/beardbrand",
       "tagline": "Beardbrand, accessible to AI shoppers via negotiate.v1.",
       "city": "Austin, TX",
       "categories": [
@@ -763,7 +763,7 @@
     },
     {
       "name": "ColourPop",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/colourpop",
+      "domain": "pier39.fly.dev/colourpop",
       "tagline": "ColourPop, accessible to AI shoppers via negotiate.v1.",
       "city": "Oxnard, CA",
       "categories": [
@@ -782,7 +782,7 @@
     },
     {
       "name": "Soko Glam",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/soko-glam",
+      "domain": "pier39.fly.dev/soko-glam",
       "tagline": "Soko Glam, accessible to AI shoppers via negotiate.v1.",
       "city": "New York, NY",
       "categories": [
@@ -801,7 +801,7 @@
     },
     {
       "name": "Hismile",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/hismile",
+      "domain": "pier39.fly.dev/hismile",
       "tagline": "Hismile, accessible to AI shoppers via negotiate.v1.",
       "city": "Gold Coast, Australia",
       "categories": [
@@ -820,7 +820,7 @@
     },
     {
       "name": "Cécred",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/cécred",
+      "domain": "pier39.fly.dev/cécred",
       "tagline": "Cécred, accessible to AI shoppers via negotiate.v1.",
       "city": "Los Angeles, CA",
       "categories": [
@@ -839,7 +839,7 @@
     },
     {
       "name": "Brooklinen",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/brooklinen",
+      "domain": "pier39.fly.dev/brooklinen",
       "tagline": "Brooklinen, accessible to AI shoppers via negotiate.v1.",
       "city": "Brooklyn, NY",
       "categories": [
@@ -859,7 +859,7 @@
     },
     {
       "name": "Emma Bridgewater",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/emma-bridgewater",
+      "domain": "pier39.fly.dev/emma-bridgewater",
       "tagline": "Emma Bridgewater, accessible to AI shoppers via negotiate.v1.",
       "city": "Stoke-on-Trent, UK",
       "categories": [
@@ -879,7 +879,7 @@
     },
     {
       "name": "Nickey Kehoe",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/nickey-kehoe",
+      "domain": "pier39.fly.dev/nickey-kehoe",
       "tagline": "Nickey Kehoe, accessible to AI shoppers via negotiate.v1.",
       "city": "Los Angeles, CA",
       "categories": [
@@ -898,7 +898,7 @@
     },
     {
       "name": "WP Standard",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/wp-standard",
+      "domain": "pier39.fly.dev/wp-standard",
       "tagline": "WP Standard, accessible to AI shoppers via negotiate.v1.",
       "city": "Lawrence, KS",
       "categories": [
@@ -917,7 +917,7 @@
     },
     {
       "name": "DB Journey",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/db-journey",
+      "domain": "pier39.fly.dev/db-journey",
       "tagline": "DB Journey, accessible to AI shoppers via negotiate.v1.",
       "city": "Sweden",
       "categories": [
@@ -936,7 +936,7 @@
     },
     {
       "name": "American Girl",
-      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/american-girl",
+      "domain": "pier39.fly.dev/american-girl",
       "tagline": "American Girl, accessible to AI shoppers via negotiate.v1.",
       "city": "Middleton, WI",
       "categories": [
