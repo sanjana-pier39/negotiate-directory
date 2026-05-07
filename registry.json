@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-05-06",
+  "updated": "2026-05-07",
   "stores": [
     {
       "name": "Atlas Premium Appliance",
@@ -305,6 +305,653 @@
         "Cedar Citrus Soap"
       ],
       "added": "2026-05-06"
+    },
+    {
+      "name": "Gymshark",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/gymshark",
+      "tagline": "Gymshark, accessible to AI shoppers via negotiate.v1.",
+      "city": "Solihull, UK",
+      "categories": [
+        "activewear",
+        "apparel",
+        "fitness",
+        "training"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Gymshark Everyday Seamless Leggings - Cherry Purple",
+        "Gymshark FeatherForm V-Neck Bralette - Pebble Grey",
+        "Gymshark FeatherForm V-Neck Bralette - Cool Brown",
+        "Gymshark x CBUM Straight Leg Jogger - Black"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Taylor Stitch",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/taylor-stitch",
+      "tagline": "Taylor Stitch, accessible to AI shoppers via negotiate.v1.",
+      "city": "San Francisco, CA",
+      "categories": [
+        "mens-fashion",
+        "shirts",
+        "denim",
+        "premium"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "The Conrad Shirt in Navy Pigeon Foulard Pincord",
+        "The Conrad Shirt in Heather Oat Pincord",
+        "The Conrad Shirt in Heather Chili Pincord",
+        "The Short Sleeve Rugby Shirt in Port Stripe"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Steve Madden",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/steve-madden",
+      "tagline": "Steve Madden, accessible to AI shoppers via negotiate.v1.",
+      "city": "Long Island City, NY",
+      "categories": [
+        "shoes",
+        "footwear",
+        "boots",
+        "fashion"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "NICO GROMMET BODYSUIT BLACK",
+        "BIGSCHMONA JELLY NATURAL",
+        "DESSA TAUPE SUEDE",
+        "NOIR GREEN SNAKE"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "OddBalls",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/oddballs",
+      "tagline": "OddBalls, accessible to AI shoppers via negotiate.v1.",
+      "city": "Northampton, UK",
+      "categories": [
+        "underwear",
+        "apparel",
+        "basics",
+        "uk"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Juggle Dream Spinning Stars Cloths - Bargain Basement",
+        "KT Titanium Powder Bulk for Fire Performers: Highest Grade Sparkling Effect",
+        "Bicycle Red Stripper Deck: Magic Trick Cards for Beginners – Red Rider Back",
+        "Bicycle Gaff Short Deck - Blue Back Magic Playing Cards for Magicians"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Rebecca Minkoff",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/rebecca-minkoff",
+      "tagline": "Rebecca Minkoff, accessible to AI shoppers via negotiate.v1.",
+      "city": "New York, NY",
+      "categories": [
+        "handbags",
+        "fashion",
+        "accessories",
+        "womens"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Reina Shoulder Bag",
+        "Bow Clutch",
+        "Julian Washed Nylon Backpack",
+        "Edie Medium Crossbody"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Fashion Nova",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/fashion-nova",
+      "tagline": "Fashion Nova, accessible to AI shoppers via negotiate.v1.",
+      "city": "Los Angeles, CA",
+      "categories": [
+        "fashion",
+        "apparel",
+        "womens",
+        "fast-fashion"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Soft Reign Feather Strapless Mini Dress - White",
+        "Under My Touch Mesh Lace Brief Panty - Black",
+        "Island Haze Tie Dye 2 Piece Bralette Bikini Set - Bubblegum Pink",
+        "Riviera Ready 1 Piece One Shoulder Cut Out Swimsuit - White/Black"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Kith",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/kith",
+      "tagline": "Kith, accessible to AI shoppers via negotiate.v1.",
+      "city": "New York, NY",
+      "categories": [
+        "streetwear",
+        "apparel",
+        "mens-fashion",
+        "premium"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "CDG Homme Short - Navy",
+        "CDG Homme Short - Black",
+        "CDG Homme Jacket - Navy",
+        "Willy Chavarria Opera Bomber Jacket - Black"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Chubbies",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/chubbies",
+      "tagline": "Chubbies, accessible to AI shoppers via negotiate.v1.",
+      "city": "Austin, TX",
+      "categories": [
+        "shorts",
+        "mens-fashion",
+        "casual",
+        "apparel"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "The Malibu Sunsets 5.5\" (Faded Classic Swim Trunk)",
+        "The Back to Basic (Quilted Quarter-Zip)",
+        "The Miami Mosaic 5.5\" (Classic Lined Swim Trunk)",
+        "The Calm Seas (Crochet Sunday Shirt) - Cream/Navy (CQS)"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Taylor Swift Store",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/taylor-swift-store",
+      "tagline": "Taylor Swift Store, accessible to AI shoppers via negotiate.v1.",
+      "city": "—",
+      "categories": [
+        "music-merch",
+        "apparel",
+        "merchandise"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "evermore album deluxe edition vinyl",
+        "Taylor Swift | The Eras Tour Through London Beige T-Shirt",
+        "Taylor Swift | The Eras Tour Through Toronto Beige T-Shirt",
+        "Taylor Swift | The Eras Tour Through Toronto Black T-Shirt"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Pura Vida Bracelets",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/pura-vida-bracelets",
+      "tagline": "Pura Vida Bracelets, accessible to AI shoppers via negotiate.v1.",
+      "city": "La Jolla, CA",
+      "categories": [
+        "jewelry",
+        "bracelets",
+        "accessories"
+      ],
+      "products_count": 99,
+      "sample_products": [
+        "Harper Cheer Megaphone Charm",
+        "Harper Soccer Ball Charm",
+        "Harper Track And Field Charm",
+        "Harper Volleyball Charm"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "New Era",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/new-era",
+      "tagline": "New Era, accessible to AI shoppers via negotiate.v1.",
+      "city": "Buffalo, NY",
+      "categories": [
+        "caps",
+        "hats",
+        "headwear",
+        "sportswear"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Puerto Rico Yaucromatic Gray 9FIFTY A-Frame Snapback Hat",
+        "Seattle Seahawks Super Bowl LX Champions Sidepatch 39THIRTY Stretch Fit Hat",
+        "USA World Baseball Classic Black and White 9FORTY M-Crown A-Frame Snapback Hat",
+        "USA 2026 World Baseball Classic Chrome White 9FIFTY A-Frame Snapback Hat"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Elder Statesman",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/elder-statesman",
+      "tagline": "Elder Statesman, accessible to AI shoppers via negotiate.v1.",
+      "city": "Los Angeles, CA",
+      "categories": [
+        "luxury",
+        "knitwear",
+        "cashmere",
+        "apparel"
+      ],
+      "products_count": 99,
+      "sample_products": [
+        "TES Teddy Keychain Charm",
+        "Elder Teddy Sitting Plushie",
+        "Elder Teddy Sitting Plushie",
+        "Elder Teddy Sitting Keychain"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Paramount Shop",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/paramount-shop",
+      "tagline": "Paramount Shop, accessible to AI shoppers via negotiate.v1.",
+      "city": "—",
+      "categories": [
+        "entertainment-merch",
+        "apparel",
+        "tv",
+        "movies"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Star Trek Hoodie with Personalized Name Boldly Going Since 1966",
+        "Star Trek T-Shirt with Personalized Name Boldly Going Since 1966",
+        "Star Trek Mug with Personalized Name Boldly Going Since 1966",
+        "Star Trek Mug Boldly Going Since 1966 Personalized Name"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Nutrimuscle",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/nutrimuscle",
+      "tagline": "Nutrimuscle, accessible to AI shoppers via negotiate.v1.",
+      "city": "Belgium",
+      "categories": [
+        "sports-nutrition",
+        "supplements",
+        "protein",
+        "fitness"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Shaker Daily",
+        "Pack Découverte - Barres Protéine & Energie",
+        "Fer Ultimine™",
+        "Créatine Micronisée (Opticreatine™)"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Haus",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/haus",
+      "tagline": "Haus, accessible to AI shoppers via negotiate.v1.",
+      "city": "Sonoma, CA",
+      "categories": [
+        "aperitif",
+        "beverage",
+        "alcohol",
+        "low-abv"
+      ],
+      "products_count": 10,
+      "sample_products": [
+        "Pomegranate Rosemary Case [6 Bottles]",
+        "Pomegranate Rosemary Case [3 Bottles]",
+        "Variety Case [12 Bottles]",
+        "Rosé Variety Case [3 Bottles]"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Stumptown Coffee",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/stumptown-coffee",
+      "tagline": "Stumptown Coffee, accessible to AI shoppers via negotiate.v1.",
+      "city": "Portland, OR",
+      "categories": [
+        "coffee",
+        "beans",
+        "specialty",
+        "food"
+      ],
+      "products_count": 99,
+      "sample_products": [
+        "Wild Flower Bundle",
+        "Honduras El Puente Natural",
+        "Small World Tiny Tote",
+        "Peace Dove Mug"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Pipcorn",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/pipcorn",
+      "tagline": "Pipcorn, accessible to AI shoppers via negotiate.v1.",
+      "city": "Brooklyn, NY",
+      "categories": [
+        "snacks",
+        "popcorn",
+        "non-gmo",
+        "food"
+      ],
+      "products_count": 35,
+      "sample_products": [
+        "Classic Kimchi Balls",
+        "Dill Pickle Balls",
+        "APKT64C12 -- Kettle Popcorn",
+        "Kettle Popcorn, 24 Bags Snack Size"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Death Wish Coffee",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/death-wish-coffee",
+      "tagline": "Death Wish Coffee, accessible to AI shoppers via negotiate.v1.",
+      "city": "Round Lake, NY",
+      "categories": [
+        "coffee",
+        "high-caffeine",
+        "beans",
+        "food"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Baba Yaga Mug",
+        "Witch's Kitchen Towel and Potholder Set",
+        "Trick or Treat Tea Towel Set",
+        "Brews Cruise Pullover"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Partake Foods",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/partake-foods",
+      "tagline": "Partake Foods, accessible to AI shoppers via negotiate.v1.",
+      "city": "Jersey City, NJ",
+      "categories": [
+        "allergy-friendly",
+        "snacks",
+        "cookies",
+        "food"
+      ],
+      "products_count": 8,
+      "sample_products": [
+        "Classic Grahams",
+        "Vanilla Wafers",
+        "Crunchy Birthday Cake Cookies",
+        "Soft Baked Lemon Cookies"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "PRESS Healthfoods",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/press-healthfoods",
+      "tagline": "PRESS Healthfoods, accessible to AI shoppers via negotiate.v1.",
+      "city": "London, UK",
+      "categories": [
+        "juice",
+        "health-food",
+        "wellness",
+        "beverage"
+      ],
+      "products_count": 95,
+      "sample_products": [
+        "Strawberry & Almond Shake 250ml",
+        "Happy Gut Shot - Weekly Add On for the Signature Nutrition Plan",
+        "Mixed Shot Box",
+        "Pom Power 250ml"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Jeffree Star Cosmetics",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/jeffree-star-cosmetics",
+      "tagline": "Jeffree Star Cosmetics, accessible to AI shoppers via negotiate.v1.",
+      "city": "Los Angeles, CA",
+      "categories": [
+        "makeup",
+        "beauty",
+        "cosmetics"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Ultimate Festival Season Trio",
+        "Brightening Magic Candy™ Color Corrector Trio",
+        "Pink Icons Magic Candy™ Color Corrector Duo",
+        "Ultimate Magic Candy™ Color Corrector Bundle"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Kylie Cosmetics",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/kylie-cosmetics",
+      "tagline": "Kylie Cosmetics, accessible to AI shoppers via negotiate.v1.",
+      "city": "Calabasas, CA",
+      "categories": [
+        "makeup",
+        "lip-kits",
+        "beauty"
+      ],
+      "products_count": 98,
+      "sample_products": [
+        "Kylie’s 2026 Met Look Bundle",
+        "Crochet Bag",
+        "Cosmic Tray",
+        "Cosmic Silver Tray"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Beardbrand",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/beardbrand",
+      "tagline": "Beardbrand, accessible to AI shoppers via negotiate.v1.",
+      "city": "Austin, TX",
+      "categories": [
+        "mens-grooming",
+        "beard-care",
+        "personal-care"
+      ],
+      "products_count": 71,
+      "sample_products": [
+        "Norse Winter Utility Deodorant",
+        "Norse Winter Utility Bar 3-Pack",
+        "Black Sails Men's Cologne",
+        "Ghost Tracer Men's Cologne"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "ColourPop",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/colourpop",
+      "tagline": "ColourPop, accessible to AI shoppers via negotiate.v1.",
+      "city": "Oxnard, CA",
+      "categories": [
+        "makeup",
+        "beauty",
+        "lipstick"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Unhinged",
+        "Pink Icing",
+        "Glow Up",
+        "Fairy Coded"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Soko Glam",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/soko-glam",
+      "tagline": "Soko Glam, accessible to AI shoppers via negotiate.v1.",
+      "city": "New York, NY",
+      "categories": [
+        "k-beauty",
+        "skincare",
+        "korean-beauty"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "345 Relief Cream",
+        "Summer Glow Set",
+        "Glowing Essentials Set",
+        "Glow On The Go Kit"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Hismile",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/hismile",
+      "tagline": "Hismile, accessible to AI shoppers via negotiate.v1.",
+      "city": "Gold Coast, Australia",
+      "categories": [
+        "teeth-whitening",
+        "oral-care",
+        "personal-care"
+      ],
+      "products_count": 52,
+      "sample_products": [
+        "Tooth Armour Toothpaste Serum Parent",
+        "Buy 2 Get 1 Free - Tooth Armour Toothpaste Serum",
+        "Buy 2 Get 1 Free - iD Stain Whitening Mouthwash",
+        "Buy 2 Get 1 Free - V34 Whitening Strips"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Cécred",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/cécred",
+      "tagline": "Cécred, accessible to AI shoppers via negotiate.v1.",
+      "city": "Los Angeles, CA",
+      "categories": [
+        "haircare",
+        "beauty",
+        "premium"
+      ],
+      "products_count": 69,
+      "sample_products": [
+        "Scalp Refreshing Spray Travel Size",
+        "The Takedown Bundle",
+        "Scalp Refreshing Spray",
+        "Ritual Shaking Vessel"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Brooklinen",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/brooklinen",
+      "tagline": "Brooklinen, accessible to AI shoppers via negotiate.v1.",
+      "city": "Brooklyn, NY",
+      "categories": [
+        "bedding",
+        "sheets",
+        "home",
+        "linen"
+      ],
+      "products_count": 75,
+      "sample_products": [
+        "DedCool | Brooklinen The Sleep Mode Duo",
+        "DedCool | Brooklinen Super-Plush Robe",
+        "DedCool | Brooklinen Sleep Mode Mini Pillow Spray",
+        "Organic Cotton Duvet Cover - Last Call"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Emma Bridgewater",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/emma-bridgewater",
+      "tagline": "Emma Bridgewater, accessible to AI shoppers via negotiate.v1.",
+      "city": "Stoke-on-Trent, UK",
+      "categories": [
+        "pottery",
+        "homewares",
+        "home",
+        "ceramic"
+      ],
+      "products_count": 100,
+      "sample_products": [
+        "Father's Day Breakfast TEST",
+        "Seconds VE Day Anniversary 1/2 Pint Mug",
+        "Blue Shells Large Dish - Club Exclusive",
+        "Red & Blue Toast Medium Pasta Bowl"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "Nickey Kehoe",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/nickey-kehoe",
+      "tagline": "Nickey Kehoe, accessible to AI shoppers via negotiate.v1.",
+      "city": "Los Angeles, CA",
+      "categories": [
+        "home-goods",
+        "interior-design",
+        "home"
+      ],
+      "products_count": 97,
+      "sample_products": [
+        "Large Platter No. 3",
+        "Large Platter No. 2",
+        "Large Square Platter No. 1",
+        "Medium Platter No.4"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "WP Standard",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/wp-standard",
+      "tagline": "WP Standard, accessible to AI shoppers via negotiate.v1.",
+      "city": "Lawrence, KS",
+      "categories": [
+        "leather-goods",
+        "bags",
+        "accessories"
+      ],
+      "products_count": 43,
+      "sample_products": [
+        "Leather Valet Tray",
+        "Leather Dopp Kit",
+        "Solo Wine Tote",
+        "The Contigo Tote Bag"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "DB Journey",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/db-journey",
+      "tagline": "DB Journey, accessible to AI shoppers via negotiate.v1.",
+      "city": "Sweden",
+      "categories": [
+        "travel-bags",
+        "luggage",
+        "ski-bags"
+      ],
+      "products_count": 29,
+      "sample_products": [
+        "Ramverk Alu Carry-on Silver",
+        "Ramverk Alu Check-in Luggage Large Silver",
+        "Ramverk Alu Check-in Luggage Medium Silver",
+        "Hugger Backpack 30L Moss Green"
+      ],
+      "added": "2026-05-07"
+    },
+    {
+      "name": "American Girl",
+      "domain": "pier39-demos-verdant-lagoon-6200.fly.dev/american-girl",
+      "tagline": "American Girl, accessible to AI shoppers via negotiate.v1.",
+      "city": "Middleton, WI",
+      "categories": [
+        "dolls",
+        "toys",
+        "kids"
+      ],
+      "products_count": 99,
+      "sample_products": [
+        "American Girl® x Hanna Andersson Holiday Treetops Pajamas for Bitty Baby® Dolls",
+        "Courtney’s™ Gift Set (Historical Characters)",
+        "Fisher-Price® Little People Collector™ American Girl®",
+        "Polly Pocket™ x American Girl® Compact 3-Pack Set"
+      ],
+      "added": "2026-05-07"
     }
   ]
 }
