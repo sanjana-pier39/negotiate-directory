@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-05-07",
+  "updated": "2026-05-08",
   "stores": [
     {
       "name": "Atlas Premium Appliance",
@@ -60,10 +60,10 @@
       ],
       "products_count": 100,
       "sample_products": [
-        "Performance Running Sock",
-        "Cushioned Crew Sock",
-        "Half-Calf Sock",
-        "Vintage Stripes Quarter Sock"
+        "Pride Ankle Sock",
+        "Men's Golf Quarter Sock 3-Pack",
+        "Men's Golf Quarter Socks",
+        "Women's Vintage Stripes Open Knit Quarter Sock 4-Pack"
       ],
       "added": "2026-05-06"
     },
@@ -81,10 +81,10 @@
       ],
       "products_count": 1052,
       "sample_products": [
-        "Wool Runner",
-        "Tree Runner",
-        "Mizzle Pacer",
-        "Wool Lounger"
+        "Trino® Cozy Crew - Heathered Onyx",
+        "Trino® Cozy Crew - Calm Acai",
+        "TrinoXO™ Face Mask 3 Pack - Natural White",
+        "TrinoXO™ Face Mask 3 Pack - Natural Grey"
       ],
       "added": "2026-05-06"
     },
@@ -103,10 +103,10 @@
       ],
       "products_count": 523,
       "sample_products": [
-        "Leakproof Boyshort",
-        "Catalyst Sports Bra",
-        "High-Waist Leakproof Brief",
-        "Modal Tank"
+        "Mesh Short Sleeve Top",
+        "Mesh Short Dress",
+        "Mesh Sarong",
+        "Cotton Knit Dress"
       ],
       "added": "2026-05-06"
     },
@@ -124,10 +124,10 @@
       ],
       "products_count": 373,
       "sample_products": [
-        "24/7 Classic T-Shirt Bra",
-        "Form 360 Lace Bra",
-        "Cotton Hipster",
-        "Smoothing Bralette"
+        "24/7® Classic T-Shirt Bra",
+        "Seamless Stretch Cotton Bodysuit",
+        "Seamless Stretch Cotton Shelf Tank Top",
+        "Seamless Stretch Cotton Boyshort"
       ],
       "added": "2026-05-06"
     },
@@ -145,10 +145,10 @@
       ],
       "products_count": 556,
       "sample_products": [
-        "Wrinkle-Free Mason Shirt",
-        "Performance Polo",
-        "Slim-Fit Chinos",
-        "UNTUCKit Stretch Shirt"
+        "Wrinkle-Resistant Linen Short-Sleeve Cameron Shirt",
+        "Performance Short-Sleeve Camp Collar Shirt",
+        "Performance Short-Sleeve Islington Shirt",
+        "Wrinkle-Resistant Linen Vin Santo Shirt"
       ],
       "added": "2026-05-06"
     },
@@ -167,10 +167,10 @@
       ],
       "products_count": 2500,
       "sample_products": [
-        "Bolt Stripe Sweatshirt",
-        "Bolt Stripe Sweatpants",
-        "Vintage Sport Tee",
-        "5 Stripe Hoodie"
+        "DISCO ZIP HOODIE - OCEAN",
+        "5 STRIPE WIDE LEG POCKET SWEATPANTS - VINTAGE WHITE",
+        "5 STRIPE WIDE LEG POCKET SWEATPANTS - RED",
+        "5 STRIPE WIDE LEG POCKET SWEATPANTS - OCEAN"
       ],
       "added": "2026-05-06"
     },
@@ -190,10 +190,10 @@
       ],
       "products_count": 1266,
       "sample_products": [
-        "Allpa 35L Travel Pack",
-        "Fuego Down Jacket",
-        "Bataan Fanny Pack",
-        "Teca Fleece Jacket"
+        "Coraza Suitcase - Carry On",
+        "Coraza Suitcase - Medium Checked",
+        "Coraza Wheel",
+        "Cotopaxi X FP Movement 9L Shoulder Bag"
       ],
       "added": "2026-05-06"
     },
@@ -211,10 +211,10 @@
       ],
       "products_count": 1412,
       "sample_products": [
-        "Classic Petite Melrose",
-        "Iconic Link",
-        "Iconic Motion",
-        "Quadro"
+        "Heart Hanging Shape Gold Charm + Snake Bracelet G",
+        "Heart Contour White Crystal Rose Gold Charm + Snake Bracelet RG",
+        "Heart Crystal Pink Rose Gold Charm + Chain Bracelet RG",
+        "Heart Crystal Pink Rose Gold Charm + Snake Bracelet RG"
       ],
       "added": "2026-05-06"
     },
@@ -234,10 +234,10 @@
       ],
       "products_count": 222,
       "sample_products": [
-        "Cocoa Cereal",
-        "Fruity Cereal",
-        "Frosted Cereal",
-        "Peanut Butter Cereal"
+        "Try Treats! Salted Caramel - 4 Protein Treats",
+        "Gift! Salted Caramel Treats - 4 Protein Treats",
+        "NEW! Apple Cinnamon and Blueberry Vanilla Almond Granola",
+        "Final Few! Blueberry Vanilla Almond Granola 8 oz"
       ],
       "added": "2026-05-06"
     },
@@ -256,10 +256,10 @@
       ],
       "products_count": 58,
       "sample_products": [
-        "Vintage Cola",
-        "Strawberry Vanilla",
-        "Cherry Vanilla",
-        "Classic Root Beer"
+        "Classic Soda Variety Pack",
+        "Raspberry Sherbet",
+        "Blackberry Vanilla",
+        "Strawberry Vanilla"
       ],
       "added": "2026-05-06"
     },
@@ -278,10 +278,10 @@
       ],
       "products_count": 206,
       "sample_products": [
-        "Mountain Water 16.9oz Tallboy",
-        "Severed Lime Sparkling",
-        "Berry It Alive Tea",
-        "Convicted Melon Sparkling"
+        "MT DEATH",
+        "Lazy Death Hammock",
+        "Eternal Death 2 Sleeveless",
+        "Deathpool Sweatshirt"
       ],
       "added": "2026-05-06"
     },
@@ -299,10 +299,10 @@
       ],
       "products_count": 549,
       "sample_products": [
-        "Pine Tar Soap",
-        "Cool Fresh Aloe Soap",
-        "Bay Rum Soap",
-        "Cedar Citrus Soap"
+        "Hair Care Kit Subscription",
+        "Hair Care Subscription - 1 Kit",
+        "Compound V 3-Pack",
+        "Compound V"
       ],
       "added": "2026-05-06"
     },
@@ -359,10 +359,10 @@
       ],
       "products_count": 2154,
       "sample_products": [
+        "CASELLA PIERCING BLACK",
         "NICO GROMMET BODYSUIT BLACK",
         "BIGSCHMONA JELLY NATURAL",
-        "DESSA TAUPE SUEDE",
-        "NOIR GREEN SNAKE"
+        "DESSA TAUPE SUEDE"
       ],
       "added": "2026-05-07"
     },
@@ -379,10 +379,10 @@
       ],
       "products_count": 2500,
       "sample_products": [
+        "Juggle Dream Star Pro 6-Panel Juggling Ball - UV (White) - Bargain Basement",
         "Juggle Dream Spinning Stars Cloths - Bargain Basement",
         "KT Titanium Powder Bulk for Fire Performers: Highest Grade Sparkling Effect",
-        "Bicycle Red Stripper Deck: Magic Trick Cards for Beginners – Red Rider Back",
-        "Bicycle Gaff Short Deck - Blue Back Magic Playing Cards for Magicians"
+        "Bicycle Red Stripper Deck: Magic Trick Cards for Beginners – Red Rider Back"
       ],
       "added": "2026-05-07"
     },
@@ -927,10 +927,10 @@
       ],
       "products_count": 29,
       "sample_products": [
-        "Ramverk Alu Carry-on Silver",
-        "Ramverk Alu Check-in Luggage Large Silver",
-        "Ramverk Alu Check-in Luggage Medium Silver",
-        "Hugger Backpack 30L Moss Green"
+        "Entour Sacoche L Black Out",
+        "Entour Daypack 18L Black Out",
+        "Entour Weekender 40L Magnet Grey",
+        "Entour Backpack 26L Magnet Grey"
       ],
       "added": "2026-05-07"
     },
@@ -1083,10 +1083,10 @@
       ],
       "products_count": 2500,
       "sample_products": [
-        "【絕美禮盒】簡約證件套｜微光紙革 (3色) ▶ 禮物包裝.收到即可送禮",
-        "【絕美禮盒】簡約證件套 (2色) ▶ 禮物包裝.收到即可送禮",
-        "簡約證件套｜微光紙革",
-        "簡約證件套"
+        "33°C 抱抱系列｜沁夏床包組-雙人加大",
+        "純淨方型單鋯石細戒",
+        "原⽣檸檬潔膚露 500ml",
+        "貝殼波紋信念戒指"
       ],
       "added": "2026-05-07"
     },
@@ -1521,10 +1521,10 @@
       ],
       "products_count": 2495,
       "sample_products": [
-        "Woven Jute Rug with Gry Stripes - Natural Harmony",
-        "Rug 400*500 cm",
-        "Washed Diamond Rug",
-        "Vintage Moroccan Beni  Rug in Cream"
+        "Bellagio Charm Nightstand",
+        "Waterfall Blue Rug",
+        "Snow Rug",
+        "Soesede Beige and Black Rug"
       ],
       "added": "2026-05-07"
     },
@@ -1598,10 +1598,10 @@
       ],
       "products_count": 2500,
       "sample_products": [
+        "SupTronics X12-A1 4-Cell Battery Holder for X1209/X1203",
         "SupTronics X-FAN40 PWM Fan HAT",
         "Uctronics 5V 5A PoE+ NVMe HAT for Raspberry Pi 5 (with Active Cooler)",
-        "Cable Brackets for Shelly Flood Gen4 (10-Pack)",
-        "SupTronics X1001-MAX High-Power NVMe Add-on for Raspberry Pi 5"
+        "Cable Brackets for Shelly Flood Gen4 (10-Pack)"
       ],
       "added": "2026-05-07"
     },
@@ -1619,8 +1619,8 @@
       "sample_products": [
         "FiiO X Jade Audio - KA11 (Unboxed)",
         "Tangzu - Wan'er S.G 2 Red Lion Edition (Unboxed)",
-        "Tangzu - Wan'er S.G 2 (Unboxed)",
-        "Truthear - NOVA (Unboxed)"
+        "Truthear - NOVA (Unboxed)",
+        "Headphone Zone X Pula - Unicrom (Unboxed)"
       ],
       "added": "2026-05-07"
     },
@@ -1774,10 +1774,10 @@
       ],
       "products_count": 2443,
       "sample_products": [
-        "Smak Parlour Pink & Black Houndstooth Cosmic Shift Dress",
-        "Unique Vintage 1950s Black High Waist Tracy Wiggle Skirt",
-        "Unique Vintage 1950s Black Halter Marcel Jumpsuit",
-        "Smak Parlour Black Mock Turtleneck Wave Maker Mini Dress"
+        "Ellie Shoes Clear & Silver Glitter Heart Heels",
+        "Unique Vintage Black Rainbow Wrap Midi Dress",
+        "Upside-Down Opossum Mug",
+        "Barbie™ x Unique Vintage Plus Size Pink Rodeo Print Sleeveless Swing Dress"
       ],
       "added": "2026-05-07"
     },
@@ -1833,10 +1833,10 @@
       ],
       "products_count": 2500,
       "sample_products": [
+        "PonyCycle Ride on Pony Toy - White Unicorn",
         "Done by Deer Tiny Backpack - Tiny Farm Sand",
         "Done by Deer Tiny Lunch Box With Snack Picks - Tiny Farm Powder",
-        "Done by Deer Lunch Box With Divider - Tiny Trails Green",
-        "Done by Deer Tiny Insulated Lunch - Tiny Farm Sand"
+        "Done by Deer Lunch Box With Divider - Tiny Trails Green"
       ],
       "added": "2026-05-07"
     },
