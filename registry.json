@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-05-08",
+  "updated": "2026-05-09",
   "stores": [
     {
       "name": "Atlas Premium Appliance",
@@ -5921,6 +5921,29 @@
         "Cruiser Jacket - Halley Stevenson"
       ],
       "added": "2026-05-08"
+    },
+    {
+      "name": "Target",
+      "domain": "pier39.fly.dev/target",
+      "tagline": "Expect more. Pay less. — over 100,000 SKUs across home, beauty, grocery, electronics, and apparel.",
+      "city": "Minneapolis, MN",
+      "categories": [
+        "general",
+        "department_store",
+        "home",
+        "beauty",
+        "grocery",
+        "electronics"
+      ],
+      "products_count": 197,
+      "sample_products": [
+        "FAMYYT 30 in. Single Sink Freestanding Green Bath Vanity with White Ceramic Top, Divided Drawers, Door Racks",
+        "Pokemon All-Over Print Women'e Novelty Cosmetic Bag",
+        "HANDPOINT 86994 Slip Resistant Durability 8\" Leather Work Boots",
+        "COZONY 2-Tier Stainless Steel Table with Wheels, 60x24 Commercial Worktable with Trash Rack",
+        "HomeRoots 63\" White and Silver Wood and Metal Pedestal Base Dining Table"
+      ],
+      "added": "2026-05-09"
     }
   ]
 }
