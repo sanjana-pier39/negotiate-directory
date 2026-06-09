@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "updated": "2026-05-09",
+  "updated": "2026-06-09",
   "stores": [
     {
       "name": "Atlas Premium Appliance",
@@ -5944,6 +5944,2182 @@
         "HomeRoots 63\" White and Silver Wood and Metal Pedestal Base Dining Table"
       ],
       "added": "2026-05-09"
+    },
+    {
+      "name": "7 For All Mankind",
+      "domain": "pier39.fly.dev/7-for-all-mankind",
+      "tagline": "7 For All Mankind — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 1388,
+      "sample_products": [
+        "TAILORLESS DOJO in Comfort Blue Haze",
+        "LONG SLEEVE WESTERN SHIRT in Denim Canyon",
+        "SHORT SLEEVE REGULAR SHIRT in Denim Duster",
+        "LONG SLEEVE REGULAR SHIRT in Denim Abyss"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "021 Originals",
+      "domain": "pier39.fly.dev/021-originals",
+      "tagline": "021 Originals — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 153,
+      "sample_products": [
+        "021 ESSENTIAL DROP-CUT HENLEY - DELUXE BUNDLE",
+        "021 ESSENTIAL DROP-CUT HENLEY - DUSTY ROSE",
+        "021 ESSENTIAL DROP-CUT HENLEY - SEA FOAM",
+        "021 ESSENTIAL DROP-CUT HENLEY - SAND"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Address America",
+      "domain": "pier39.fly.dev/address-america",
+      "tagline": "Address America — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 186,
+      "sample_products": [
+        "Poly Spear, Boy Scout, White. Fits 5/8\" Square 10 pk",
+        "Cast Iron Spear Trident Fits 1/2\" Square 10 pk",
+        "Polished Brass Tri Spear Finial 4 1/2\" H Fits Over 1/2\" Square Tube",
+        "16\" X 12\" Powder-Coated Black Stainless-Steel Blank"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "100 Thieves",
+      "domain": "pier39.fly.dev/100-thieves",
+      "tagline": "100 Thieves — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 400,
+      "sample_products": [
+        "HSTN 100 Thieves Collection",
+        "Premium :: Pendant",
+        "Select :: Tapestry",
+        "Deluxe :: T-Shirt"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Alembika.com",
+      "domain": "pier39.fly.dev/alembika-com",
+      "tagline": "Alembika.com — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 2499,
+      "sample_products": [
+        "The Essential Trio",
+        "Layla Box Shirt, Black/White Stripe",
+        "Lucent Oversized Dress, Sheer White",
+        "Evanescent Oversized Shirt, Sheer White"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Alessi",
+      "domain": "pier39.fly.dev/alessi",
+      "tagline": "Alessi — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 1544,
+      "sample_products": [
+        "9098",
+        "9098 B/POM",
+        "9096",
+        "La cupola"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "ALOHA",
+      "domain": "pier39.fly.dev/aloha",
+      "tagline": "ALOHA — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 66,
+      "sample_products": [
+        "Pumpkin Spice - Protein Bars",
+        "Banana Bread Chocolate Chip - Protein Bars",
+        "Almond Butter Cup (Best By July 31st, 2026) - Protein Bars",
+        "Key Lime - Protein Bars"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Apothekary",
+      "domain": "pier39.fly.dev/apothekary",
+      "tagline": "Apothekary — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 46,
+      "sample_products": [
+        "Fuel to Burn",
+        "Power Trip™",
+        "AM to PM Duo",
+        "Metabolic Duo"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Alo Yoga",
+      "domain": "pier39.fly.dev/alo-yoga",
+      "tagline": "Alo Yoga — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 2497,
+      "sample_products": [
+        "Tennis Club Sweater Knit Cardigan - Candy Red/White",
+        "Airlift Suit Up Bra - Spruce Green/White",
+        "Fan Club Mini Skirt - Black",
+        "Unisex Throwback Sock - Marathon Blue/White"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "BEARPAW",
+      "domain": "pier39.fly.dev/bearpaw",
+      "tagline": "BEARPAW — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 564,
+      "sample_products": [
+        "ALTITUDE BLACK",
+        "MINDY HICKORY",
+        "EMMA SHORT BLACK",
+        "LOKETTA GRAY FOG"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Arhaus",
+      "domain": "pier39.fly.dev/arhaus",
+      "tagline": "Arhaus — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 2494,
+      "sample_products": [
+        "Coventry Dining Table",
+        "Winslow Accent Table Lamp",
+        "Del Rey Outdoor Dining Side Chair",
+        "Montauk Outdoor Swivel Chair in Vista Grey"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Art of Skincare",
+      "domain": "pier39.fly.dev/art-of-skincare",
+      "tagline": "Art of Skincare — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 750,
+      "sample_products": [
+        "Colorescience Summer Essentials Gift Set",
+        "Epicutis Luxury On The Go Set",
+        "Skinbetter InterFuse Treatment Cream EYE Mini",
+        "Colorescience Total Protection Body Shield Glow SPF 50"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Bad Birdie",
+      "domain": "pier39.fly.dev/bad-birdie",
+      "tagline": "Bad Birdie — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 441,
+      "sample_products": [
+        "Greens Keeper",
+        "USA All day, Let's Play",
+        "Salt Shaker - Black",
+        "Ditsy Down"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Alexis Russell",
+      "domain": "pier39.fly.dev/alexis-russell",
+      "tagline": "Alexis Russell — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 1696,
+      "sample_products": [
+        "1.17ct | Salt & Pepper Kite Shape Step Cut Diamond",
+        "1.06ct | Salt & Pepper Shield Shape Step Cut Diamond",
+        "1.51ct | Salt & Pepper Pear Shape Brilliant Cut Diamond",
+        "1.19ct | Salt & Pepper Pear Shape Rose Cut Diamond"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "bloom baby",
+      "domain": "pier39.fly.dev/bloom-baby",
+      "tagline": "bloom baby — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 52,
+      "sample_products": [
+        "fresco de-luxe seat liner",
+        "alma papa crib breathable mattress",
+        "alma grow crib bundle (July Delivery)",
+        "fresco titanium (July delivery)"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Billy Reid",
+      "domain": "pier39.fly.dev/billy-reid",
+      "tagline": "Billy Reid — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 491,
+      "sample_products": [
+        "Short Sleeve Linen Tuscumbia Shirt Button Down",
+        "Pensacola Polo",
+        "Vintage Stripe Sweater Polo",
+        "Short Sleeve Numajiri Beach Shirt"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Bikes Online",
+      "domain": "pier39.fly.dev/bikes-online",
+      "tagline": "Bikes Online — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 1102,
+      "sample_products": [
+        "Shimano GRX REAR DERAILLEUR RD-RX822 12-Speed",
+        "Shimano XTR Rear Derailleur RD-M9100",
+        "Shimano XTR M9250 12-SPEED KIT",
+        "Crankbrothers Synthesis Enduro Alloy Wheelset - OEM"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Bellami",
+      "domain": "pier39.fly.dev/bellami",
+      "tagline": "Bellami — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 1214,
+      "sample_products": [
+        "Master Class (All 4 Methods) & Kit | DUBOIS PA - 09/20/2026 - 09/21/2026",
+        "BELLAMI Cutting Techniques Class | ELMHURST IL - 09/14/2026",
+        "BELLAMI Cutting Techniques Class | TUKWILA WA - 09/21/2026",
+        "Advanced Education (BELLAMI Hidden Row) & Kit | VERONA NJ - 09/14/2026"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Burt's Bees Baby",
+      "domain": "pier39.fly.dev/burt-s-bees-baby",
+      "tagline": "Burt's Bees Baby — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 684,
+      "sample_products": [
+        "Vintage Wash Football Sweatshirt Set",
+        "Autumn Rose Organic Cotton Tunic Set",
+        "Wild Floral Organic Cotton Dress",
+        "Top Dog Baby Boy Bodysuits 2 Pack"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Bells of Steel",
+      "domain": "pier39.fly.dev/bells-of-steel",
+      "tagline": "Bells of Steel — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 229,
+      "sample_products": [
+        "Basilisk Stack Loaded Leg Extension / Leg Curl",
+        "Hydra Six Post Power Rack - Prebuilt (3\" x 3\", ⅝\" Holes)",
+        "Fat Bar - Lat Pulldown Bar",
+        "All-in-One Trainer - OLD Version on Clearance"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Blundstone",
+      "domain": "pier39.fly.dev/blundstone",
+      "tagline": "Blundstone — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 215,
+      "sample_products": [
+        "Men's Classics #2340",
+        "Men's Lug #2240",
+        "Women's Lug #2240",
+        "Men's Lug #2238"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "BWH Plant Co",
+      "domain": "pier39.fly.dev/bwh-plant-co",
+      "tagline": "BWH Plant Co — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 241,
+      "sample_products": [
+        "Craft Cafe",
+        "4\" Variegated Alocasia Sanderiana Bull 'Aurea'",
+        "6\" Monstera Borsigiana Albo",
+        "4\" Aglaonema 'Spilt Milk'"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Burst Oral Care",
+      "domain": "pier39.fly.dev/burst-oral-care",
+      "tagline": "Burst Oral Care — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 97,
+      "sample_products": [
+        "Father's Day Bundle",
+        "Interdental Floss Picks",
+        "Dissolving Breath Strips",
+        "Precision Whitening Pen"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Built Bar",
+      "domain": "pier39.fly.dev/built-bar",
+      "tagline": "Built Bar — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 70,
+      "sample_products": [
+        "Coconut Puff 4ct",
+        "Mint Chip Puff 4ct",
+        "Brownie Batter Puff 4ct",
+        "Cookie Dough Chunk Puff 4ct"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Caldera + Lab",
+      "domain": "pier39.fly.dev/caldera-lab",
+      "tagline": "Caldera + Lab — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 29,
+      "sample_products": [
+        "The Weekender Kit",
+        "The Face Towel",
+        "The Body Bar Mini",
+        "The Power Pair"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "California Filament",
+      "domain": "pier39.fly.dev/california-filament",
+      "tagline": "California Filament — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 82,
+      "sample_products": [
+        "Spring 2026 Limited Edition Pack",
+        "Champagne Blush Limited Edition PETG Filament 1.75mm",
+        "Cream Limited Edition PETG Filament 1.75mm",
+        "Powder Blue Limited Edition PETG Filament 1.75mm"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Catchmaster",
+      "domain": "pier39.fly.dev/catchmaster",
+      "tagline": "Catchmaster — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 91,
+      "sample_products": [
+        "Window Fly Traps Decorative Linen 12-Pack",
+        "Fly Traps for Window Corners, Decorative 12-Pack",
+        "Window Fly Traps Decorative 12-Pack",
+        "Vector 9 UV Light Plug in Flying Insect Trap"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "CMY Cubes",
+      "domain": "pier39.fly.dev/cmy-cubes",
+      "tagline": "CMY Cubes — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 47,
+      "sample_products": [
+        "The Ultimate Puzzle Aenigma",
+        "The Collection Mysterium",
+        "SECONDS: The PolySquish Discovery Series",
+        "The Aeternus Aenigma - Series Monochromatica"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Cozy Earth",
+      "domain": "pier39.fly.dev/cozy-earth",
+      "tagline": "Cozy Earth — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 578,
+      "sample_products": [
+        "Men's Brushed Bamboo Hoodie",
+        "Women's Chelsea Short",
+        "Women's Chelsea Short Sleeve",
+        "Women's Chelsea Short Sleeve Set"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "California Furniture Store",
+      "domain": "pier39.fly.dev/california-furniture-store",
+      "tagline": "California Furniture Store — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 2500,
+      "sample_products": [
+        "Anabelle Bed",
+        "Anabelle Bed",
+        "Amos Multi 5' X 8' Area Rug",
+        "Alzire Black Cal.King Bed"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "D'vash Organics",
+      "domain": "pier39.fly.dev/d-vash-organics",
+      "tagline": "D'vash Organics — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 17,
+      "sample_products": [
+        "Premium Date Sugar",
+        "Pistachio Fiber Bars 6pk",
+        "Peanut Butter Fiber Bars 6pk",
+        "Pecan Cacao Fiber Bars 6 pk"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Dansko",
+      "domain": "pier39.fly.dev/dansko",
+      "tagline": "Dansko — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 450,
+      "sample_products": [
+        "Pro Clog Pastel Rainbow Glitter",
+        "Wide Pro Pastel Rainbow Glitter",
+        "Professional Watercolor",
+        "Kane Paisley Bandana"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Dandelion Chocolate",
+      "domain": "pier39.fly.dev/dandelion-chocolate",
+      "tagline": "Dandelion Chocolate — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 190,
+      "sample_products": [
+        "DCJ - Semuliki Forest, Uganda 85% Single-Origin Chocolate Bar",
+        "Aperitivo & Digestivo Collection",
+        "Summer Harvest Collection",
+        "Midnight Sun Collection"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Clare V",
+      "domain": "pier39.fly.dev/clare-v",
+      "tagline": "Clare V — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 583,
+      "sample_products": [
+        "Shortie Strap",
+        "Coin Clutch",
+        "Carryall Clutch w/ Tabs",
+        "Coin Clutch"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Davis Instruments",
+      "domain": "pier39.fly.dev/davis-instruments",
+      "tagline": "Davis Instruments — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 220,
+      "sample_products": [
+        "Yagi Antenna for Long-Range Repeater - SKU 7660",
+        "EnviroMonitor Gateway (LTE, Latest Version) - SKU 6803",
+        "Vantage Pro2 Plus Upgrade Kit - SKU 6496",
+        "Vantage Vue Weather Station with WeatherLink Console - SKU 6242, 6242M"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Daily Harvest",
+      "domain": "pier39.fly.dev/daily-harvest",
+      "tagline": "Daily Harvest — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 68,
+      "sample_products": [
+        "New Mom Nutrition Bundle",
+        "High Protein Oat Bowl Bundle",
+        "High Protein Smoothie Bundle (12-pack)",
+        "High Protein Smoothie Bundle (6-pack)"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Et Tigre",
+      "domain": "pier39.fly.dev/et-tigre",
+      "tagline": "Et Tigre — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 125,
+      "sample_products": [
+        "Kara Dress in Black",
+        "Francis Crop Top in White",
+        "Jackie Boot in Nubuck Suede",
+        "Sully Blouse in White"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Elvie",
+      "domain": "pier39.fly.dev/elvie",
+      "tagline": "Elvie — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 63,
+      "sample_products": [
+        "Breast Pump Sizing Kit",
+        "Colostrum Collection Kit",
+        "Willow Wave Valves Set (4-pack)",
+        "Willow Wave Tubing"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Dr. Brandt Skincare",
+      "domain": "pier39.fly.dev/dr-brandt-skincare",
+      "tagline": "Dr. Brandt Skincare — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 75,
+      "sample_products": [
+        "Clean Biotic",
+        "Dee & Ricky Limited Edition Hope T-Shirt",
+        "Dr BRANDT HEARTS 4 YOU T. SHIRT",
+        "Discovery Kit"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Feastables",
+      "domain": "pier39.fly.dev/feastables",
+      "tagline": "Feastables — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 32,
+      "sample_products": [
+        "Milk Chocolate Pantry Pack",
+        "Mario Sour Boosts",
+        "Mario Galaxy Cocoa Crunch",
+        "Yoshi Eggs"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Face Reality Skincare",
+      "domain": "pier39.fly.dev/face-reality-skincare",
+      "tagline": "Face Reality Skincare — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 85,
+      "sample_products": [
+        "FACE FOUNDRIÉ Opening Bundle",
+        "Clear Skin Peel Bundle",
+        "Clear Synergy Peel Bundle",
+        "Clear Synergy Peel 3"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Felina",
+      "domain": "pier39.fly.dev/felina",
+      "tagline": "Felina — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 407,
+      "sample_products": [
+        "Cotton Modal Brief Underwear 5-Pack",
+        "Cotton Modal Bikini Underwear 5-Pack",
+        "Lunette Convertible T-Shirt Bra",
+        "Lunette Convertible T-Shirt Bra"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "effyjewelry.com",
+      "domain": "pier39.fly.dev/effyjewelry-com",
+      "tagline": "effyjewelry.com — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 2500,
+      "sample_products": [
+        "Emerald 2.03ct E VS2",
+        "Emerald 1.18ct D IF",
+        "Radiant 1.92ct D VS1",
+        "Emerald 0.38ct D VVS2"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Farmacy Beauty",
+      "domain": "pier39.fly.dev/farmacy-beauty",
+      "tagline": "Farmacy Beauty — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 115,
+      "sample_products": [
+        "Healthy Skin Trio",
+        "Honey Hydration Trio",
+        "Cleanse + Comfort Trio",
+        "Honey Barrier Trio"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "First Aid Beauty",
+      "domain": "pier39.fly.dev/first-aid-beauty",
+      "tagline": "First Aid Beauty — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 86,
+      "sample_products": [
+        "Brighten + Glow Exfoliating Gel Cleanser with AHA and Jojoba Pearls",
+        "Ultra Light Liquid Mineral Sunscreen with Zinc Oxide SPF 30",
+        "Ultimate Hydration Routine",
+        "Sensitive Skin Bestsellers"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Flamingo Estate",
+      "domain": "pier39.fly.dev/flamingo-estate",
+      "tagline": "Flamingo Estate — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 139,
+      "sample_products": [
+        "Highland Park Jalapeño Candle",
+        "2026 Summer Spicy Set",
+        "Spicy Tomato Savory Jam",
+        "Salsa Macha Chile Crisp"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "GAMMA Sports",
+      "domain": "pier39.fly.dev/gamma-sports",
+      "tagline": "GAMMA Sports — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 227,
+      "sample_products": [
+        "Momentum 6 Plus",
+        "Scor-Post® Pro",
+        "Marathon DPC 15L Nat",
+        "Refill String Things"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Fore All",
+      "domain": "pier39.fly.dev/fore-all",
+      "tagline": "Fore All — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 648,
+      "sample_products": [
+        "Noel Tee - White/Putting Green",
+        "Barbie Top - Putting Green/White Chevron",
+        "Barbie Top - White/Black Chevron",
+        "Noel Tee - White/Black"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Forever 21",
+      "domain": "pier39.fly.dev/forever-21",
+      "tagline": "Forever 21 — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 2499,
+      "sample_products": [
+        "Chunky Faux Leather Sandals",
+        "Camo Print Longline Puffer Vest",
+        "Champion Big And Tall Men's Powerblend Fleece Sweat Pant",
+        "Long Sleeves Metallic Logo Po Hoodie"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "FYidoctors",
+      "domain": "pier39.fly.dev/fyidoctors",
+      "tagline": "FYidoctors — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 459,
+      "sample_products": [
+        "DAESHA 2/G/S",
+        "DALIA 3/G/S",
+        "DAINA 2/G/S",
+        "JENELL 2/S"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Gardencup",
+      "domain": "pier39.fly.dev/gardencup",
+      "tagline": "Gardencup — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 60,
+      "sample_products": [
+        "Agave Mango Chia Pudding",
+        "Soba Noodle Bowl w/ Garlic Butter Shrimp",
+        "Soba Noodle Bowl w/ Garlic Butter Tofu",
+        "9-Pack Sampler"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "GAURI KOHLI",
+      "domain": "pier39.fly.dev/gauri-kohli",
+      "tagline": "GAURI KOHLI — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 239,
+      "sample_products": [
+        "Copenhagen Ice Bucket",
+        "Copenhagen Bar Tools",
+        "Coco & Charlie Marble Bird Objects",
+        "Jardin Verde Levanto Bath Set"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Good Ranchers",
+      "domain": "pier39.fly.dev/good-ranchers",
+      "tagline": "Good Ranchers — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 116,
+      "sample_products": [
+        "Father's Day Sampler Gift Box",
+        "Beef Sticks Special",
+        "Beef Chuck + Brisket Blend Patties Special",
+        "Center-Cut Filet Mignons"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Glossier",
+      "domain": "pier39.fly.dev/glossier",
+      "tagline": "Glossier — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 113,
+      "sample_products": [
+        "You Look Good Pet Set",
+        "The Curbside Set",
+        "Smile Wave Pet Waste Bags",
+        "Pet Waste Bag Dispenser"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Glasshouse Fragrances",
+      "domain": "pier39.fly.dev/glasshouse-fragrances",
+      "tagline": "Glasshouse Fragrances — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 208,
+      "sample_products": [
+        "Born To Be Extra",
+        "Rendezvous",
+        "Sunkissed In Bermuda",
+        "A Love Letter from Marseille"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Gerber Childrenswear",
+      "domain": "pier39.fly.dev/gerber-childrenswear",
+      "tagline": "Gerber Childrenswear — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 2498,
+      "sample_products": [
+        "8-Pack Baby Neutral Holiday Drooling Bibs",
+        "8-Pack Baby Girls Super Happy Drooling Bibs",
+        "8-Pack Baby Boys Kids Club Drooling Bibs",
+        "Baby Neutral Pink Zip Front Sweatshirt"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Greyson Clothiers",
+      "domain": "pier39.fly.dev/greyson-clothiers",
+      "tagline": "Greyson Clothiers — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 1184,
+      "sample_products": [
+        "Coywolf Sport Vest",
+        "Leith Short Sleeve Sweater Polo",
+        "Detroit Tigers Colorado Quarter-Zip",
+        "Colorado Rockies Colorado Quarter-Zip"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Giant Tiger",
+      "domain": "pier39.fly.dev/giant-tiger",
+      "tagline": "Giant Tiger — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 2500,
+      "sample_products": [
+        "mySTYLE Women's Stretchy Crew Neck Tee",
+        "mySTYLE Women's Scooped Stretchy Tee",
+        "Bubly Sparkling Water Beverage Raspberry, 355 ml",
+        "CFL Calgary Stampeders Pillowcases, 20-in x 30-in, 2 Pack"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Innovix Labs",
+      "domain": "pier39.fly.dev/innovix-labs",
+      "tagline": "Innovix Labs — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 12,
+      "sample_products": [
+        "Black Seed Oil Softgels (500mg)",
+        "Triple Strength Omega-3 (30ct Softgels)",
+        "Collagen Peptides",
+        "Choline"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Intelligentsia Coffee",
+      "domain": "pier39.fly.dev/intelligentsia-coffee",
+      "tagline": "Intelligentsia Coffee — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 337,
+      "sample_products": [
+        "Colombia La Estrella",
+        "KINTO Sketch Tumbler 8oz",
+        "The Los Angeles KINTO Mug",
+        "The Chicago KINTO Mug"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "JLUXLABEL",
+      "domain": "pier39.fly.dev/jluxlabel",
+      "tagline": "JLUXLABEL — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 1455,
+      "sample_products": [
+        "White/Black Venus Reversible Skirt Set",
+        "Beige Nightfall Suede Jacket",
+        "Black Wanderlust One Shoulder Dress",
+        "Yellow Island Bloom Hair Clip Set"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Jack Archer",
+      "domain": "pier39.fly.dev/jack-archer",
+      "tagline": "Jack Archer — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 203,
+      "sample_products": [
+        "Clubhouse Pique Polo Pack",
+        "The Pique Polo 2-Pack",
+        "The Pique Polo 3-Pack",
+        "Legacy Resort Polo -- Harbor Blue"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Kate Somerville US",
+      "domain": "pier39.fly.dev/kate-somerville-us",
+      "tagline": "Kate Somerville US — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 64,
+      "sample_products": [
+        "Kate Somerville Puffer Pouch",
+        "The ExfoliKate Icons Kit",
+        "HydraKate® Pro-Collagen Lip Oil Elixir Duo",
+        "Goat Milk Soothing Body Lotion"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Kizik",
+      "domain": "pier39.fly.dev/kizik",
+      "tagline": "Kizik — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 314,
+      "sample_products": [
+        "Men's Vegas 2 - Bright White",
+        "Men's Vegas 2 - Tan Suede",
+        "Men's Vegas 2 - Grey Suede",
+        "Men's Athens Golf - Harbor Mist/Dark Shadow"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Keller International",
+      "domain": "pier39.fly.dev/keller-international",
+      "tagline": "Keller International — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 339,
+      "sample_products": [
+        "Triad Cutting Stool",
+        "INFINITY Premium Head Spa",
+        "JUPITER Non-Plumbing Portable Head Spa Kit",
+        "Derma Hair Steamer & Scalp Therapy Mist"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Inno Supps",
+      "domain": "pier39.fly.dev/inno-supps",
+      "tagline": "Inno Supps — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 1709,
+      "sample_products": [
+        "3-Month Magnum Male Collection",
+        "Magnum Male Collection",
+        "Inno Cleanse™",
+        "Inferno Shred Stack"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Kut From The Kloth",
+      "domain": "pier39.fly.dev/kut-from-the-kloth",
+      "tagline": "Kut From The Kloth — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 497,
+      "sample_products": [
+        "Ashton Twill Stripe Short, Exclusive in Red/Wht",
+        "Kelsey Twill High Rise Ankle Flare, Exclusive in Navy/Ivory",
+        "Charlotte Twill High Rise Wide Leg, Exclusive in Matcha Green",
+        "Charlotte High Rise Wide Leg, Exclusive in Pink Diamond"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Koi CBD",
+      "domain": "pier39.fly.dev/koi-cbd",
+      "tagline": "Koi CBD — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 37,
+      "sample_products": [
+        "MusciMind™ Liquid Trip",
+        "The All-Day Wellness Pack",
+        "Koi CBD Balm",
+        "YEEHAW Mushroom Chocolate Bars"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Kinn Studio",
+      "domain": "pier39.fly.dev/kinn-studio",
+      "tagline": "Kinn Studio — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 1049,
+      "sample_products": [
+        "2.26ct GIA Oval D/VVS1 Lab Grown",
+        "Vintage Omega Watch",
+        "1.01ct GIA Pear D/VVS1 Lab Grown",
+        "1.01ct GIA Pear D/VVS1 Lab Grown"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Kim Seybert",
+      "domain": "pier39.fly.dev/kim-seybert",
+      "tagline": "Kim Seybert — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 748,
+      "sample_products": [
+        "Dip Dye Napkin in Blush & Gold, Set of 4",
+        "Scallop Bud Vase in Pink",
+        "Herringbone Placemat in Tan, Set of 4",
+        "Dip Dye Napkin in Periwinkle & White, Set of 4"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Larson Jewelers",
+      "domain": "pier39.fly.dev/larson-jewelers",
+      "tagline": "Larson Jewelers — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 2496,
+      "sample_products": [
+        "1 Carat Certified Marquise Loose Stone Lab Grown Diamond No. 2030096",
+        "1 Carat Certified Marquise Loose Stone Lab Grown Diamond No. 8116252",
+        "0.91 Carat Certified Marquise Loose Stone Lab Grown Diamond No. 2035819",
+        "7.46 Carat Certified Emerald Loose Stone Lab Grown Diamond No. 1059985"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "L'AGENCE",
+      "domain": "pier39.fly.dev/l-agence",
+      "tagline": "L'AGENCE — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 1659,
+      "sample_products": [
+        "Otera Suede Belt",
+        "Janus Cover-Up Robe",
+        "Allanah Pinstriped Trouser",
+        "Krysta Halter Bikini Top"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Lancer Skincare",
+      "domain": "pier39.fly.dev/lancer-skincare",
+      "tagline": "Lancer Skincare — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 62,
+      "sample_products": [
+        "Lancer Spa Headband",
+        "Peptide Firming Duo",
+        "Advanced Treatment Duo",
+        "Daily Defense Duo"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "La Senza",
+      "domain": "pier39.fly.dev/la-senza",
+      "tagline": "La Senza — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 2500,
+      "sample_products": [
+        "Up 2 Cup Plunge Bra with Exquisite Lace in Tuxedo Black",
+        "Up 2 Cup Plunge Bra with Exquisite Lace in Pink Lemonade",
+        "Diva Thong Panty with Exquisite Lace in Tuxedo Black",
+        "Diva Thong Panty with Exquisite Lace in Pink Lemonade"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "laundry sauce",
+      "domain": "pier39.fly.dev/laundry-sauce",
+      "tagline": "laundry sauce — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 28,
+      "sample_products": [
+        "The Essentials Package",
+        "The Signature Package",
+        "The Holiday Package",
+        "Most Popular Package"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Legendairy Milk",
+      "domain": "pier39.fly.dev/legendairy-milk",
+      "tagline": "Legendairy Milk — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 180,
+      "sample_products": [
+        "Spare Duckbill Valves (1 Month Supply)",
+        "Spare Duckbill Valves (6 Month Supply)",
+        "Spare Duckbill Valves (3 Month Supply)",
+        "GLP-1 Support (6 Month Supply)"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Love Wellness",
+      "domain": "pier39.fly.dev/love-wellness",
+      "tagline": "Love Wellness — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 71,
+      "sample_products": [
+        "Tired Mom Bundle",
+        "Bloat* Quick Melt Strips - 1 Pack",
+        "Cravings* Quick Melt Strips - 1 Pack",
+        "Calm* Quick Melt Strips - 1 Pack"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Lion Brand Yarn Company",
+      "domain": "pier39.fly.dev/lion-brand-yarn-company",
+      "tagline": "Lion Brand Yarn Company — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 828,
+      "sample_products": [
+        "Celtic Weave Earwarmer (Crochet)",
+        "The Crochet Rose Appliqué (Crochet)",
+        "Easy Ripple Stitch Baby Blanket (Crochet)",
+        "River Arrow Coaster (Crochet)"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "M.M.LaFleur",
+      "domain": "pier39.fly.dev/m-m-lafleur",
+      "tagline": "M.M.LaFleur — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 2024,
+      "sample_products": [
+        "Jax Turtleneck Top - Light Printed Jersey :: Abstract Hydrangea",
+        "Choe Top - 365 Stretch Knit :: Bold Check",
+        "Axam Layering Turtleneck - Contrast Organic Ribbed Pima Cotton :: Ivory/Red",
+        "Nika Summer Friday Top - Printed Voile :: Soft Floral"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Manos Soap",
+      "domain": "pier39.fly.dev/manos-soap",
+      "tagline": "Manos Soap — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 54,
+      "sample_products": [
+        "Birthday Party Soap Favors",
+        "Bat or Bar Mitzvah Soap Favors",
+        "Bridal Shower Soap Favors",
+        "Wedding Soap Favors"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Madhappy",
+      "domain": "pier39.fly.dev/madhappy",
+      "tagline": "Madhappy — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 1079,
+      "sample_products": [
+        "SUPERSHOP Fleece Hoodie",
+        "FREECITY Dove Pillow Small",
+        "FREECITY Wildflower iPhone Case",
+        "FREECITY Dove Pillow Small"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "MakerFlo Crafts",
+      "domain": "pier39.fly.dev/makerflo-crafts",
+      "tagline": "MakerFlo Crafts — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 303,
+      "sample_products": [
+        "Sublimation Mini Pack",
+        "40oz Electroplated Tumbler with Handle",
+        "20oz Skinny Electroplated with Handle",
+        "20oz Skinny with Handle"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "LoveShackFancy",
+      "domain": "pier39.fly.dev/loveshackfancy",
+      "tagline": "LoveShackFancy — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 1903,
+      "sample_products": [
+        "BOGNER FIRE+ICE x LoveShackFancy Aneli Hat",
+        "Octavia Quilted Bow Print Pouch",
+        "STATE x LoveShackFancy Gold Graham XL Tote",
+        "Tween Stretch Pointelle Jovie Dress"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Maxwood Furniture",
+      "domain": "pier39.fly.dev/maxwood-furniture",
+      "tagline": "Maxwood Furniture — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 872,
+      "sample_products": [
+        "Pacific Queen Bunk Bed",
+        "Pacific King Bunk Bed",
+        "Pacific Twin XL Bunk Bed",
+        "Pacific Twin XL Bunk Bed with Stairs"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Mattel",
+      "domain": "pier39.fly.dev/mattel",
+      "tagline": "Mattel — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 2499,
+      "sample_products": [
+        "Little People Brinquedo para Bebês Caminhão Escolar Fazendo Novos Amigos",
+        "Fisher-Price Baby Brinquedo para Bebês Ginásio de Atividades Musical 3 em 1",
+        "Figura de Ação Disney Pixar Toy Story 5 Woody Vintage de 12 Polegadas",
+        "Little People Brinquedo para Bebês Caminhão de Bombeiros Médio"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Million Dollar Baby",
+      "domain": "pier39.fly.dev/million-dollar-baby",
+      "tagline": "Million Dollar Baby — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 170,
+      "sample_products": [
+        "Crawford Recliner and Swivel Glider",
+        "Premium 2-Stage Breathable Crib Mattress",
+        "Comfort Crib Mattress",
+        "Gooselings Seaside Stripes Swaddle - Ocean"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Medterra",
+      "domain": "pier39.fly.dev/medterra",
+      "tagline": "Medterra — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 50,
+      "sample_products": [
+        "Better Sleep Bundle",
+        "Multi-Spectrum CBD Sleep Bundle",
+        "Rest & Restore Bundle",
+        "Relief Bundle"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Melinda Maria",
+      "domain": "pier39.fly.dev/melinda-maria",
+      "tagline": "Melinda Maria — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 747,
+      "sample_products": [
+        "Tessa Necklace 16mm - Silver|Labradorite",
+        "Tessa Necklace 16mm - Gold|Labradorite",
+        "The David Ring - Silver|Labradorite",
+        "The David Ring - Gold|Labradorite"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "melin",
+      "domain": "pier39.fly.dev/melin",
+      "tagline": "melin — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 435,
+      "sample_products": [
+        "The Legend Hydro - Northern Aura",
+        "Odysea Links Hydro - Sky / Light Grey",
+        "Coronado Packable Hydro - Quarry",
+        "Odysea Scout Thermal - Caramel"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "MESHKI",
+      "domain": "pier39.fly.dev/meshki",
+      "tagline": "MESHKI — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 2070,
+      "sample_products": [
+        "Samira Knit Long Sleeve Mini Dress - Light Olive",
+        "Sam Halter Hand Crochet Maxi Dress - Ivory",
+        "Mollie Mini Dress With Crochet Overlay - Cornflower Blue",
+        "Mollie Mini Dress With Crochet Overlay - White & Chocolate"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Mother Denim",
+      "domain": "pier39.fly.dev/mother-denim",
+      "tagline": "Mother Denim — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 1026,
+      "sample_products": [
+        "Eterne Low Rise Lounge Pant - Papaya",
+        "Eterne Cropped V Neck Sweatshirt - Fern",
+        "Eterne Low Rise Lounge Pant - Fern",
+        "The S/S Ruffle Raquette - Pink And Red"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Narrative and Co",
+      "domain": "pier39.fly.dev/narrative-and-co",
+      "tagline": "Narrative and Co — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 425,
+      "sample_products": [
+        "The Favorite Skirt",
+        "The Side Note Top",
+        "The Favorite Classic Embossed Sweatshirt",
+        "The Drawn Dress"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Mirai Clinical",
+      "domain": "pier39.fly.dev/mirai-clinical",
+      "tagline": "Mirai Clinical — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 35,
+      "sample_products": [
+        "Deodorizing Laundry Detergent Sheets with Japanese Persimmon",
+        "Deodorizing Soap Bar and Body Wash",
+        "Persimmon Bath Bundle",
+        "Airtight Suction Hook"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Montana Knife Company",
+      "domain": "pier39.fly.dev/montana-knife-company",
+      "tagline": "Montana Knife Company — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 676,
+      "sample_products": [
+        "MKC HERITAGE TEE - USA MADE - BLACK",
+        "MKC HERITAGE TEE - USA MADE - OLIVE",
+        "MKC HERITAGE TEE - USA MADE - STONE",
+        "MKC HERITAGE TEE - USA MADE - GLACIER"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Natural Life",
+      "domain": "pier39.fly.dev/natural-life",
+      "tagline": "Natural Life — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 1499,
+      "sample_products": [
+        "Wanderwood Earrings",
+        "Applique Hang Around Cotton Tunic - Strong As A Mother",
+        "Magnolia Top - Wildflower Medallion Teal",
+        "Ana Tote Bag"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Necessaire",
+      "domain": "pier39.fly.dev/necessaire",
+      "tagline": "Necessaire — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 112,
+      "sample_products": [
+        "The Body Wipe + Eucalyptus Water",
+        "Eucalyptus Water",
+        "The Body Wipe",
+        "The Deodorant | Mandelic Acid"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "MZ Wallace",
+      "domain": "pier39.fly.dev/mz-wallace",
+      "tagline": "MZ Wallace — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 560,
+      "sample_products": [
+        "Navy Large Zoey Large Zip Pouch",
+        "Magnet Zoey Large Zip Pouch",
+        "Black Michael Garment Bag",
+        "Black Travel Pouch Set"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Nike Strength",
+      "domain": "pier39.fly.dev/nike-strength",
+      "tagline": "Nike Strength — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 88,
+      "sample_products": [
+        "Nike Flex Lifting Tape",
+        "Nike Athletic Tape",
+        "Nike Adjustable Dumbbell & Bench Bundle",
+        "Free Returns + Package Protection"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Nahla Madison Home",
+      "domain": "pier39.fly.dev/nahla-madison-home",
+      "tagline": "Nahla Madison Home — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 2459,
+      "sample_products": [
+        "Josephine Dining Table",
+        "Josephine Side Table",
+        "Greggs Drink Table",
+        "Granville Counter Stool"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "NEST New York",
+      "domain": "pier39.fly.dev/nest-new-york",
+      "tagline": "NEST New York — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 343,
+      "sample_products": [
+        "Sunlit Yuzu & Neroli Reed Diffuser & Liquid Refill Set",
+        "Build Your Own Set: Liquid Soaps",
+        "Moroccan Amber Reed Diffuser & Liquid Refill Set",
+        "Best Sellers Body Mist Trio"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Nearly Natural",
+      "domain": "pier39.fly.dev/nearly-natural",
+      "tagline": "Nearly Natural — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 2500,
+      "sample_products": [
+        "26” UV Resistant Artificial Flowering Rose Bush with Integrated Ground Stake (Indoor/Outdoor) - Set of 2",
+        "2' UV Resistant Artificial Red, White and Blue Flowering Daisy Bush with Integrated Ground Stake (Indoor/Outdoor) - Set of 2",
+        "4’ UV Resistant Artificial Grass Plant in White Decorative Planter (Indoor/Outdoor)",
+        "6’ UV Resistant Artificial Grass Plant in White Decorative Planter (Indoor/Outdoor)"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Old World Christmas",
+      "domain": "pier39.fly.dev/old-world-christmas",
+      "tagline": "Old World Christmas — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 2366,
+      "sample_products": [
+        "Running On Fumes Ornament",
+        "Tabletop Metal Tree Display Ornament",
+        "Santa With Penguin Pals",
+        "LSU  Football Ornament"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "OluKai",
+      "domain": "pier39.fly.dev/olukai",
+      "tagline": "OluKai — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 484,
+      "sample_products": [
+        "Mea Ola Nuʻu - Dark Java / Tan",
+        "Huia - White Sand / Misty Blue",
+        "Hila - Moonlit Ocean",
+        "‘Ohana - Blossom / Lava Rock"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "OLAPLEX",
+      "domain": "pier39.fly.dev/olaplex",
+      "tagline": "OLAPLEX — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 369,
+      "sample_products": [
+        "PRO EXCLUSIVE: BOND SHAPER CURL REBUILDING TREATMENT™",
+        "PRO EXCLUSIVE: ORIGINAL BOND BUILDING KIT - Travel Size",
+        "PRO EXCLUSIVE: ORIGINAL BOND BUILDING KIT",
+        "PRO EXCLUSIVE: ORIGINAL BOND BUILDING KIT - Travel Size"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "OLLY",
+      "domain": "pier39.fly.dev/olly",
+      "tagline": "OLLY — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 73,
+      "sample_products": [
+        "Comfy Mood + Skin Body Wash",
+        "Clear Mood + Skin Body Wash",
+        "Happy Mood + Skin Body Wash",
+        "Cool Mood + Skin Body Wash"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "nyandcompany.com",
+      "domain": "pier39.fly.dev/nyandcompany-com",
+      "tagline": "nyandcompany.com — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 2500,
+      "sample_products": [
+        "Plaid A-Line Midi Sundress With Front Tie",
+        "Claire Colorblock Midi Sweater Dress",
+        "Sleeveless V Neck Bodycon Maxi Dress",
+        "V Neck Woven A Line Midi Dress"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Oma's Pride",
+      "domain": "pier39.fly.dev/oma-s-pride",
+      "tagline": "Oma's Pride — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 21,
+      "sample_products": [
+        "Whole Necks",
+        "Turkey Hearts",
+        "Turkey Chunks",
+        "Lamb Lung"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Oxyfresh",
+      "domain": "pier39.fly.dev/oxyfresh",
+      "tagline": "Oxyfresh — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 34,
+      "sample_products": [
+        "Sample Size Pet Toothpaste - Best Way To Clean Pet Teeth",
+        "Pet Dental Water Additive + Stain & Odor Remover",
+        "Dog Dental Chew Toy + Pet Dental Gel Toothpaste",
+        "Dog Water Additive + Dog Dental Chew Toy"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "REEF",
+      "domain": "pier39.fly.dev/reef",
+      "tagline": "REEF — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 1260,
+      "sample_products": [
+        "Fanning Slide",
+        "Fanning Slide",
+        "Fanning Slide",
+        "Fanning Slide"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Reverie",
+      "domain": "pier39.fly.dev/reverie",
+      "tagline": "Reverie — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 40,
+      "sample_products": [
+        "Mattress Refresh Upgrade Package",
+        "R650™ Adjustable Power Base",
+        "Tilt Motor Upgrade Package",
+        "Reverie Connect™ Control Box"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Revlon",
+      "domain": "pier39.fly.dev/revlon",
+      "tagline": "Revlon — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 144,
+      "sample_products": [
+        "Insta-Blush™ Cream Blush Stick",
+        "ColorSilk™ After Color Serum",
+        "ColorSilk™ After Color Hair Mask",
+        "ColorSilk™ After Color Conditioner"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Origin Maine",
+      "domain": "pier39.fly.dev/origin-maine",
+      "tagline": "Origin Maine — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 30,
+      "sample_products": [
+        "ORIGIN® PERFORMANCE WOOL BOOT SOCK",
+        "Burnt End Founder’s Blend Premium Seasoning",
+        "ORIGIN® CORE T-SHIRT - 250TH STANDARD ISSUE GRAPHIC",
+        "Delta Flex 250 Edition Victory Jeans - Taper"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Randys Worldwide",
+      "domain": "pier39.fly.dev/randys-worldwide",
+      "tagline": "Randys Worldwide — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 2483,
+      "sample_products": [
+        "ICON 2014-2026 Ram 2500 4WD, Diesel, Coil Spring Rear, 4.5\" Lift, Stage 5 Suspension System, w/ Performance Rear Coil Springs",
+        "ICON 2014-2026 Ram 2500 4WD, Diesel, OEM Air Spring Rear, 4.5\" Lift, Stage 5 Suspension System",
+        "ICON 2014-2026 Ram 2500 4WD, Diesel, Coil Spring Rear, 4.5\" Lift, Stage 5 Suspension System",
+        "ICON 2014-2026 Ram 2500 4WD, Diesel, Coil Spring Rear, 2.5\" Lift, Stage 5 Suspension System, w/ Performance Rear Coil Springs"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Rockstar Original",
+      "domain": "pier39.fly.dev/rockstar-original",
+      "tagline": "Rockstar Original — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 2500,
+      "sample_products": [
+        "Forbidden Heather Grey Crop Boxy Polo/Fleece Baggy Track Set",
+        "Girls Leslee Black/Pink Boxy T-Shirt Short Set",
+        "Boys Leslaw Black/Yellow Boxy T-Shirt Short Set",
+        "Boys Teiario Black Rhinestone Track Short"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "River Of Goods",
+      "domain": "pier39.fly.dev/river-of-goods",
+      "tagline": "River Of Goods — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 580,
+      "sample_products": [
+        "42\" W Cecily LED Indoor Amber Swirl Hand-Cut Glass White Ceiling Fan with Remote Control",
+        "42\" W Pierre LED Indoor Blue and Teal Mosaic Glass Ceiling Fan with Remote Control",
+        "42\" W Braxton LED Indoor Clear and Gold Glass Ceiling Fan with Oak/White Blades, Remote Control",
+        "42\" W Valencia LED Indoor Clear Hand-Cut Glass Bowl Shade Ceiling Fan with Remote Control"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Rokform",
+      "domain": "pier39.fly.dev/rokform",
+      "tagline": "Rokform — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 185,
+      "sample_products": [
+        "Google Pixel 11 Pro XL Rugged Case Black",
+        "32GB MicroSDHC Ultra Sandisk Memory Card",
+        "Samsung Galaxy Z Fold8 Rugged Case Black",
+        "Limited Edition Samsung S26 Ultra Rugged Case in Stars & Stripes"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "UrbanStems",
+      "domain": "pier39.fly.dev/urbanstems",
+      "tagline": "UrbanStems — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 284,
+      "sample_products": [
+        "The Vibrant Blossom",
+        "The First Bloom",
+        "The Blushing Beauty",
+        "Levain Signature 4 Pack"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "UPTIME Energy",
+      "domain": "pier39.fly.dev/uptime-energy",
+      "tagline": "UPTIME Energy — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 17,
+      "sample_products": [
+        "UPTIME ORIGINAL Variety Zero Sugar 12 Pack",
+        "UPTIME TROPICAL VARIETY Zero Sugar 12 Pack",
+        "Strawberry Dragonfruit Cane Sugar 12 Pack",
+        "Tropical Passionfruit Zero Sugar - 12 Pack"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Vintner's Daughter",
+      "domain": "pier39.fly.dev/vintner-s-daughter",
+      "tagline": "Vintner's Daughter — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 19,
+      "sample_products": [
+        "Active Renewal Cleanser®",
+        "Active Renewal Cleanser® 26ml",
+        "Active Renewal Cleanser®",
+        "Active Treatment Essence® 10ml Travel Size"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Vidaful",
+      "domain": "pier39.fly.dev/vidaful",
+      "tagline": "Vidaful — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 22,
+      "sample_products": [
+        "Zinc",
+        "Water of Life",
+        "Vida-Biotic",
+        "Selenium"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Verb Products",
+      "domain": "pier39.fly.dev/verb-products",
+      "tagline": "Verb Products — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 72,
+      "sample_products": [
+        "Verb® Dry Shampoo Powder",
+        "Rainbow Tote",
+        "Mother of all Bundles",
+        "Ghost Icons Kit"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "ULE Group",
+      "domain": "pier39.fly.dev/ule-group",
+      "tagline": "ULE Group — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 2213,
+      "sample_products": [
+        "36 Watt LED HID Replacement; ED28; 5000K; Mogul extended base; 120-277 Volt; Type B Ballast Bypass",
+        "Dale - LED Flush with Opal Frosted Glass - Aged Bronze Finish",
+        "Beaker - 1 Light Mini Pendant with Clear Glass -Aged Bronze Finish",
+        "Two Hole - Long Barrel Compression Lugs, 600 MCM Wire, 1/2\" Bolt Size, Green Color Code"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Voluspa",
+      "domain": "pier39.fly.dev/voluspa",
+      "tagline": "Voluspa — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 816,
+      "sample_products": [
+        "Eau De Parfum - Discovery Set",
+        "Petal & Pair - Eau De Parfum Duo",
+        "Petal and Pair Masterclass Ticket - Print Workshop and Fragrance Masterclass",
+        "Burning Woods - Petite Jar Candle"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Weatherman",
+      "domain": "pier39.fly.dev/weatherman",
+      "tagline": "Weatherman — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 55,
+      "sample_products": [
+        "America250 x Folds of Honor Women’s Stride Pullover Poncho",
+        "America250 x Folds of Honor Trek All-Weather Hat",
+        "America250 x Folds of Honor Men’s Stride Pullover Poncho",
+        "Summer Essential Set"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Wisteria",
+      "domain": "pier39.fly.dev/wisteria",
+      "tagline": "Wisteria — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 2354,
+      "sample_products": [
+        "Aurevain Wood Side Table",
+        "Norelle Wood Dining Table",
+        "Aurevain Wood Dining Table",
+        "Aurevain Wood Coffee Table"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "XYON Health",
+      "domain": "pier39.fly.dev/xyon-health",
+      "tagline": "XYON Health — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 58,
+      "sample_products": [
+        "Oral Finasteride",
+        "ClinicConnect™ Business Card – Size: 3.5\" x 2\", Stock: 16pt Glossy Cardstock, Coating: Soft Touch L  (50 units per pack)",
+        "SiloxysSystem™ Patient Leaflet – 8.5\" x 11\" Portrait, 100lb Gloss Text, Semi Gloss Coating (50 units per pack)",
+        "Women's Brochure Size: 5.8\" x 12.3\" Print: Full Color Both Sides (50 units per pack)"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Zelouf International",
+      "domain": "pier39.fly.dev/zelouf-international",
+      "tagline": "Zelouf International — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 2498,
+      "sample_products": [
+        "LACE WITH SEQUINS AND PAILLETTES  | 28081",
+        "LUNETTE ABSTRACT PAILLETTES ON LACE  | 28027-LACE",
+        "ZIA SATIN SOUTACHE W/ SEQUINS ON LACE  | 27599-LACE",
+        "STRIPED SUITING | 061"
+      ],
+      "added": "2026-06-09"
+    },
+    {
+      "name": "Z Supply",
+      "domain": "pier39.fly.dev/z-supply",
+      "tagline": "Z Supply — premium quality, fair prices.",
+      "city": "—",
+      "categories": [
+        "general"
+      ],
+      "products_count": 30,
+      "sample_products": [
+        "Linden Slub Rib Maxi Dress",
+        "Tourist Polarized Sunglasses",
+        "Napa Lightweight Denim Mini Dress",
+        "Flared Jumpsuit"
+      ],
+      "added": "2026-06-09"
     }
   ]
 }
