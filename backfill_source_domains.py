@@ -1,69 +1,42 @@
 #!/usr/bin/env python3
 """
-backfill_source_domains.py — populate `source_domain` for every multi-tenant
-registry entry by probing candidate Shopify hostnames.
-
-Why: the bulk-add script that originally populated the registry only set
-`domain: pier39.fly.dev/<slug>` without ever filling in `source_domain`.
-Without it, the MCP's list_products can't fetch real /products.json data.
-
-This script tries <slug>.com, www.<slug>.com, <slug>.co, shop.<slug>.com,
-and <slug>.myshopify.com for each entry — first one that returns a valid
-Shopify /products.json response wins. Results written incrementally to a
-checkpoint file so Ctrl-C is safe and resumable.
+backfill_source_domains.py — populate `source_domain` by probing candidate hosts.
 
 Usage:
-    cd negotiate-directory/
-    python3 backfill_source_domains.py
-    # Then once it finishes:
-    git add registry.json
-    git commit -m "Backfill source_domain for X stores"
-    git push
-
-Tunables: CONCURRENCY (default 20), TIMEOUT_S (default 6).
+    python3 backfill_source_domains.py --test     # try ~20 known stores, verbose
+    python3 backfill_source_domains.py            # full run on the registry
 """
 from __future__ import annotations
-
-import concurrent.futures
-import json
-import signal
-import sys
-import time
-import urllib.error
-import urllib.request
+import concurrent.futures, json, signal, sys, time, urllib.error, urllib.request
 from pathlib import Path
 
-REGISTRY_PATH = Path(__file__).parent / "registry.json"
-CHECKPOINT_PATH = Path(__file__).parent / ".backfill_checkpoint.json"
-
-# Candidate hostnames to try, in order. First Shopify-shape match wins.
+REGISTRY_PATH    = Path(__file__).parent / "registry.json"
+CHECKPOINT_PATH  = Path(__file__).parent / ".backfill_checkpoint.json"
 CANDIDATE_PATTERNS = (
     "{slug}.com",
-    "www.{slug}.com",
-    "{slug}.co",
     "shop.{slug}.com",
     "{slug}.myshopify.com",
+    "{slug}.co",
 )
+CONCURRENCY    = 20
+TIMEOUT_S      = 6
+PROGRESS_EVERY = 100
+USER_AGENT     = "pier39-backfill/1.0 (sanjana@pier39.ai)"
 
-# Concurrency + timeout. Bumping these makes it faster but ruder to merchants.
-CONCURRENCY = 20
-TIMEOUT_S = 6
-PROGRESS_EVERY = 100  # save checkpoint + print every N entries
-
-USER_AGENT = (
-    "pier39-backfill/1.0 (sanjana@pier39.ai) — "
-    "one-time registry source_domain discovery; will not repeat"
-)
+# Shopify /products.json responses always start with `{"products":` — we check
+# for that byte substring rather than parsing JSON, so a truncated read can't
+# false-negative on huge catalogs (the old bug).
+SHOPIFY_SHAPE_MARKER = b'"products"'
 
 
-def probe_one(slug: str) -> str | None:
-    """Try the candidate hostnames; return the first one that responds with
-    a valid Shopify /products.json (HTTP 200 + JSON content-type), or None."""
-    safe_slug = "".join(c for c in slug.lower() if c.isalnum() or c == "-").strip("-")
-    if not safe_slug or len(safe_slug) < 2:
-        return None
+def probe_one(slug: str, *, verbose: bool = False) -> tuple[str | None, str]:
+    """Return (resolved_host, reason). reason is for logging."""
+    safe = "".join(c for c in slug.lower() if c.isalnum() or c == "-").strip("-")
+    if not safe or len(safe) < 2:
+        return None, "slug_too_short"
+    last_reason = "no_candidates_matched"
     for pattern in CANDIDATE_PATTERNS:
-        host = pattern.format(slug=safe_slug)
+        host = pattern.format(slug=safe)
         url = f"https://{host}/products.json?limit=1"
         try:
             req = urllib.request.Request(url, headers={
@@ -71,35 +44,45 @@ def probe_one(slug: str) -> str | None:
                 "Accept": "application/json",
             })
             with urllib.request.urlopen(req, timeout=TIMEOUT_S) as resp:
-                if resp.status != 200:
-                    continue
+                status = resp.status
                 ct = resp.headers.get("Content-Type", "").lower()
+                if verbose:
+                    print(f"    [{host}] {status} {ct}")
+                if status != 200:
+                    last_reason = f"http_{status}@{host}"
+                    continue
                 if "json" not in ct:
+                    last_reason = f"non_json@{host}"
                     continue
-                # Sanity: must have a "products" key (Shopify response shape)
-                body = resp.read(8192)  # only need a tiny prefix
-                try:
-                    parsed = json.loads(body.decode("utf-8", errors="replace"))
-                except Exception:
-                    continue
-                if isinstance(parsed, dict) and "products" in parsed:
-                    return host
-        except Exception:
-            continue
-    return None
+                # Read a generous chunk; only need to confirm Shopify shape
+                body = resp.read(16384)
+                if SHOPIFY_SHAPE_MARKER in body:
+                    return host, "ok"
+                last_reason = f"no_marker@{host}"
+        except urllib.error.HTTPError as e:
+            if verbose:
+                print(f"    [{host}] HTTP {e.code}")
+            last_reason = f"http_{e.code}@{host}"
+        except urllib.error.URLError as e:
+            if verbose:
+                print(f"    [{host}] URLError {e.reason}")
+            last_reason = f"urlerr@{host}"
+        except Exception as e:
+            if verbose:
+                print(f"    [{host}] {type(e).__name__}: {e}")
+            last_reason = f"{type(e).__name__}@{host}"
+    return None, last_reason
 
 
 def slug_from_entry(entry: dict) -> str | None:
     domain = (entry.get("domain") or "").lower()
-    if domain.startswith("pier39.fly.dev/"):
-        return domain[len("pier39.fly.dev/"):].split("/", 1)[0]
-    if domain.startswith("www.pier39.fly.dev/"):
-        return domain[len("www.pier39.fly.dev/"):].split("/", 1)[0]
+    for prefix in ("pier39.fly.dev/", "www.pier39.fly.dev/"):
+        if domain.startswith(prefix):
+            return domain[len(prefix):].split("/", 1)[0]
     return None
 
 
 def load_checkpoint() -> dict[str, str | None]:
-    """slug -> resolved hostname (or None for confirmed-not-Shopify)."""
     if CHECKPOINT_PATH.exists():
         try:
             return json.loads(CHECKPOINT_PATH.read_text())
@@ -112,9 +95,34 @@ def save_checkpoint(resolved: dict[str, str | None]) -> None:
     CHECKPOINT_PATH.write_text(json.dumps(resolved, indent=0))
 
 
-def main() -> int:
+def run_test_mode() -> int:
+    """Probe ~20 known DTC brands with verbose output. No registry writes."""
+    known = [
+        "bombas", "allbirds", "cotopaxi", "fitglowbeauty", "olipop",
+        "knix", "thirdlove", "untuckit", "magic-spoon", "boldsocks",
+        "aviator-nation", "daniel-wellington", "azurajewelry", "browcode",
+        "couchpotatoes", "epicured", "jupmode", "lastgasp", "miradoroutdoor",
+        "303boards",
+    ]
+    print(f"=== TEST MODE: probing {len(known)} known brands ===\n")
+    hits = 0
+    for slug in known:
+        t0 = time.time()
+        print(f"--- {slug} ---")
+        host, reason = probe_one(slug, verbose=True)
+        elapsed = time.time() - t0
+        if host:
+            hits += 1
+            print(f"  → HIT {host}  ({elapsed:.2f}s)\n")
+        else:
+            print(f"  → miss ({reason})  ({elapsed:.2f}s)\n")
+    print(f"=== TEST DONE: {hits}/{len(known)} hits ===")
+    return 0
+
+
+def run_full() -> int:
     if not REGISTRY_PATH.exists():
-        print(f"ERROR: {REGISTRY_PATH} not found. Run this from the repo root.")
+        print(f"ERROR: {REGISTRY_PATH} not found.")
         return 1
 
     print(f"Loading {REGISTRY_PATH} …")
@@ -123,13 +131,12 @@ def main() -> int:
     print(f"  {len(stores):,} stores total\n")
 
     resolved = load_checkpoint()
-    print(f"Resuming from checkpoint: {len(resolved):,} slugs already probed\n")
+    print(f"Checkpoint: {len(resolved):,} slugs already probed\n")
 
-    # Build the work queue — slugs we haven't probed yet AND that need backfilling
-    work: list[tuple[int, str]] = []  # (index, slug)
+    work: list[tuple[int, str]] = []
     for i, entry in enumerate(stores):
         if entry.get("source_domain"):
-            continue  # already has source_domain
+            continue
         slug = slug_from_entry(entry)
         if not slug:
             continue
@@ -138,30 +145,25 @@ def main() -> int:
         work.append((i, slug))
 
     if not work:
-        print("Nothing to probe — all entries already resolved.")
+        print("Nothing to probe.")
     else:
-        print(f"Probing {len(work):,} slugs with concurrency={CONCURRENCY}, timeout={TIMEOUT_S}s")
-        print(f"Estimated wall time: ~{len(work) * TIMEOUT_S // CONCURRENCY // 60} minutes (worst case)\n")
+        print(f"Probing {len(work):,} slugs (concurrency={CONCURRENCY}, timeout={TIMEOUT_S}s)\n")
 
-    # Graceful Ctrl-C: save what we have and exit
     interrupted = {"flag": False}
     def _on_sigint(signum, frame):
         if interrupted["flag"]:
-            print("\nForced exit.")
             sys.exit(130)
         interrupted["flag"] = True
-        print("\n[interrupted] saving checkpoint, will exit after current batch...")
+        print("\n[interrupted] saving checkpoint, exiting after current batch...")
     signal.signal(signal.SIGINT, _on_sigint)
 
-    start = time.time()
-    done = 0
-    hits = 0
+    start, done, hits = time.time(), 0, 0
     with concurrent.futures.ThreadPoolExecutor(max_workers=CONCURRENCY) as ex:
-        future_to_slug = {ex.submit(probe_one, slug): (i, slug) for i, slug in work}
-        for fut in concurrent.futures.as_completed(future_to_slug):
-            i, slug = future_to_slug[fut]
+        futures = {ex.submit(probe_one, slug): (i, slug) for i, slug in work}
+        for fut in concurrent.futures.as_completed(futures):
+            i, slug = futures[fut]
             try:
-                host = fut.result()
+                host, _reason = fut.result()
             except Exception:
                 host = None
             resolved[slug] = host
@@ -176,16 +178,14 @@ def main() -> int:
                       f"{rate:.1f}/s, ETA {eta/60:.1f} min")
                 save_checkpoint(resolved)
             if interrupted["flag"]:
-                # Cancel pending work
-                for f in future_to_slug:
-                    f.cancel()
+                for f in futures: f.cancel()
                 break
 
     save_checkpoint(resolved)
-    print(f"\nProbe complete: {len(resolved):,} entries cached, {sum(1 for v in resolved.values() if v):,} hits\n")
+    print(f"\nProbe complete: {len(resolved):,} cached, "
+          f"{sum(1 for v in resolved.values() if v):,} hits\n")
 
-    # Write resolutions back into the registry
-    print("Updating registry.json with source_domain fields …")
+    print("Updating registry.json with source_domain …")
     updated = 0
     for entry in stores:
         if entry.get("source_domain"):
@@ -197,21 +197,14 @@ def main() -> int:
         if host:
             entry["source_domain"] = host
             updated += 1
-        # We deliberately do NOT write None back — leaving the field absent
-        # lets the runtime heuristic in _resolve_shopify_domain still try
-        # in case the merchant fixes their setup later.
 
     REGISTRY_PATH.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n")
-    print(f"  {updated:,} entries updated with source_domain\n")
-
-    print("Done. Next steps:")
-    print(f"  git add {REGISTRY_PATH.name}")
-    print(f"  git commit -m 'Backfill source_domain for {updated:,} stores'")
-    print(f"  git push")
-    print()
-    print(f"Checkpoint preserved at {CHECKPOINT_PATH.name} — safe to delete after push.")
+    print(f"  {updated:,} entries updated\n")
+    print(f"Next: git add registry.json && git commit -m 'Backfill source_domain ({updated:,})' && git push")
     return 0
 
 
 if __name__ == "__main__":
-    sys.exit(main())
+    if "--test" in sys.argv:
+        sys.exit(run_test_mode())
+    sys.exit(run_full())
