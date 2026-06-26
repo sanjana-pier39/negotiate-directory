@@ -464,4 +464,4 @@ _Updated: 2026-06-09_  ·  **461 stores**
 | 458 | Bombas | `pier39.fly.dev/bombas` | 100 | 2026-05-06 |
 | 459 | Aviator Nation | `pier39.fly.dev/aviator-nation` | 2500 | 2026-05-06 |
 | 460 | Allbirds | `pier39.fly.dev/allbirds` | 1052 | 2026-05-06 |
-| 461 | Atlas Premium Appliance | `negotiate.pier39.ai` | 4 | 2026-05-03 |
+| 461 | Atlas Premium Appliance | `nash-checkout.pier39.ai` | 4 | 2026-05-03 |
