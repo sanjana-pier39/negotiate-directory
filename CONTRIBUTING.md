@@ -4,12 +4,12 @@ Want your store listed? Submit a PR. Takes ~5 minutes.
 
 ## Submission checklist
 
-Before you open a PR, verify your store is actually negotiate.v1-compliant:
+Before you open a PR, verify your store is actually nash.v1-compliant:
 
 ```bash
 # 1. Discovery file resolves
 curl -s https://yourstore.com/negotiate.json | python3 -m json.tool | head -3
-# expect: "negotiate_protocol": "negotiate.v1"
+# expect: "negotiate_protocol": "nash.v1"
 
 # 2. Catalog endpoint works
 curl -s https://yourstore.com/api/store/catalog | python3 -m json.tool | head -10
@@ -79,7 +79,7 @@ To verify a submission:
 ```bash
 # Quick smoke test
 DOMAIN=yourstore.com
-curl -s -m 10 "https://$DOMAIN/negotiate.json" | python3 -c "import sys, json; d=json.load(sys.stdin); assert d['negotiate_protocol']=='negotiate.v1'; print('OK', d['store']['name'])"
+curl -s -m 10 "https://$DOMAIN/negotiate.json" | python3 -c "import sys, json; d=json.load(sys.stdin); assert d['negotiate_protocol']=='nash.v1'; print('OK', d['store']['name'])"
 ```
 
 If that prints `OK <store name>`, the discovery layer works. Spot-check the chat endpoint manually too.

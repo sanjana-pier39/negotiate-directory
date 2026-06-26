@@ -1,16 +1,16 @@
 # negotiate-directory
 
-The public directory of [negotiate.v1](https://github.com/sanjana-pier39/pier39-skills/blob/main/PROTOCOL.md)-compliant storefronts. AI shopper agents (via [`negotiate-mcp`](https://github.com/sanjana-pier39/negotiate-mcp) or any other client) query this list to discover stores they can negotiate at.
+The public directory of [nash.v1](https://github.com/sanjana-pier39/pier39-skills/blob/main/PROTOCOL.md)-compliant storefronts. AI shopper agents (via [`negotiate-mcp`](https://github.com/sanjana-pier39/negotiate-mcp) or any other client) query this list to discover stores they can negotiate at.
 
 ## What's here
 
-[`registry.json`](./registry.json) is a single JSON file listing every known store that implements the negotiate.v1 protocol. The MCP connector fetches this URL via its `find_stores` tool whenever a shopper asks "find me a store that sells X."
+[`registry.json`](./registry.json) is a single JSON file listing every known store that implements the nash.v1 protocol. The MCP connector fetches this URL via its `find_stores` tool whenever a shopper asks "find me a store that sells X."
 
 ## Add your store
 
-If you've deployed a [pier39-merchant-server](https://github.com/sanjana-pier39/pier39-merchant-server) (or any other negotiate.v1-compliant backend) and want to be discoverable by AI shoppers:
+If you've deployed a [pier39-merchant-server](https://github.com/sanjana-pier39/pier39-merchant-server) (or any other nash.v1-compliant backend) and want to be discoverable by AI shoppers:
 
-1. Confirm your `/negotiate.json` is reachable and returns `"negotiate_protocol": "negotiate.v1"`:
+1. Confirm your `/negotiate.json` is reachable and returns `"negotiate_protocol": "nash.v1"`:
 
    ```bash
    curl -s https://yourstore.com/negotiate.json | python3 -m json.tool | head -3
